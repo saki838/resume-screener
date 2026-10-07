@@ -1,0 +1,5049 @@
+{
+  "batch_summary": {
+    "total_files": 50,
+    "parsed_successfully": 50,
+    "eligible": 39,
+    "rejected": 11,
+    "failed_or_unreadable": 0,
+    "duplicates": 0,
+    "github_enriched": 35,
+    "github_failed": 0,
+    "llm_mode": "deterministic (no LLM configured)",
+    "llm_succeeded": 0,
+    "llm_failed": 0,
+    "elapsed_seconds": 9.76,
+    "warnings": []
+  },
+  "ranked_candidates": [
+    {
+      "rank": 1,
+      "file": "candidate_35.pdf",
+      "candidate_name": "Prathamesh Patil",
+      "email": "prathameshpatil330@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 91.5,
+      "score_breakdown": {
+        "ai_project_depth": 34.0,
+        "python_backend": 30.0,
+        "cloud_fullstack": 13.5,
+        "github": 9.0,
+        "engineering_depth": 5.0
+      },
+      "rule_ai_depth": 34.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "Celery",
+        "Async",
+        "PostgreSQL",
+        "Redis",
+        "REST APIs",
+        "WebSockets/SSE",
+        "LangGraph",
+        "Gemini",
+        "RAG",
+        "Vector DB",
+        "Embeddings",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "React",
+        "Next.js",
+        "Kafka",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "Node.js"
+      ],
+      "project_summary": "Adaptive Agentic RAG - Multi-Agent Research System (deep: agents/tool-calling, backend integration, data processing, evaluation/metrics, retrieval/RAG). Architected a LangGraph multi-agent pipeline with conditional routing between local vector stores and real-time web search, (+3 more substantive AI projects)",
+      "projects": [
+        {
+          "title": "Software Engineer Intern - AI Division, Jmedia Corp Jan 2025 – Jun 2025",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration"
+          ],
+          "verdict": "moderate",
+          "evidence": "Designed and deployed scalable ML-backed REST APIs using FastAPI and AWS Lambda, integrating LLM APIs and OOP"
+        },
+        {
+          "title": "AI & Cloud Computing Intern, SuprMentr Technology Pvt Ltd Nov 2025 – Mar 2026",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "evaluation/metrics",
+            "retrieval/RAG"
+          ],
+          "verdict": "deep",
+          "evidence": "Engineered an adaptive multi-agent RAG platform leveraging LangGraph and ChromaDB, integrating LLM APIs for"
+        },
+        {
+          "title": "Adaptive Agentic RAG - Multi-Agent Research System",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG"
+          ],
+          "verdict": "deep",
+          "evidence": "Architected a LangGraph multi-agent pipeline with conditional routing between local vector stores and real-time web search,"
+        },
+        {
+          "title": "AI-SaaS-Kit - Scalable Multimodal AI Boilerplate",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "Built an asynchronous multimodal AI pipeline using Gemini 1.5 Flash for VLM reasoning, orchestrated through Celery"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Tools Used: Python LangGraph Groq (Llama 3.3) PostgreSQL + pgvector ChromaDB FastAPI",
+          "[skills] AI ML Development: Python, TensorFlow, scikit-learn, PyTorch, RAG Pipelines, FastAPI, Unit Testing",
+          "[summary] Proficient in Python, FastAPI, and cloud-native deployment. Published two research papers; Salesforce Agent Development",
+          "Python frameworks used in projects/work: Celery, FastAPI, LangGraph, Pydantic"
+        ],
+        "ai": [
+          "[experience] Software Engineer Intern - AI Division, Jmedia Corp Jan 2025 – Jun 2025 (llm)",
+          "[experience] AI & Cloud Computing Intern, SuprMentr Technology Pvt Ltd Nov 2025 – Mar 2026 (agentic, llm, retrieval)",
+          "[projects] Adaptive Agentic RAG - Multi-Agent Research System (agentic, llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "Prathameshh-Patil",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 14,
+        "maintained_repos": 8,
+        "relevant_repos": [
+          "Intelligent-Loan-Document-Processing",
+          "ai-saas-kit",
+          "AdaptiveAgentic-RAG",
+          "Agent-Skill-Manager",
+          "Made-With-ML",
+          "AI-med-bot",
+          "Ai-Astro",
+          "Multiple-disease-prediction-system"
+        ],
+        "last_push_days_ago": 60,
+        "recent_commits_90d": 0,
+        "activity_points": 4.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "14 owned public repos, 8 updated in the last year, 8 Python/AI-relevant; last push 60d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: AI & Cloud Computing Intern, SuprMentr Technology Pvt Ltd",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "FastAPI backend in projects/work"
+      ],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Prathamesh Patil"
+    },
+    {
+      "rank": 2,
+      "file": "candidate_13.pdf",
+      "candidate_name": "Yash Maini",
+      "email": "mainiyash2@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 88.0,
+      "score_breakdown": {
+        "ai_project_depth": 35.0,
+        "python_backend": 28.0,
+        "cloud_fullstack": 10.0,
+        "github": 10.0,
+        "engineering_depth": 5.0
+      },
+      "rule_ai_depth": 35.0,
+      "llm_ai_depth": null,
+      "penalties": [
+        "-5: thin LLM-wrapper project(s) with no retrieval/agent/state/eval/backend logic: CopyGuard – Serverless GenAI Code Detection Platform"
+      ],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Async",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "LangGraph",
+        "OpenAI API",
+        "Claude",
+        "RAG",
+        "Fine-tuning",
+        "PyTorch",
+        "Deep Learning",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Flask",
+        "WebSockets/SSE",
+        "pandas",
+        "NumPy",
+        "LangChain",
+        "Vector DB",
+        "Embeddings",
+        "TensorFlow",
+        "scikit-learn",
+        "GCP"
+      ],
+      "project_summary": "NetoAI Solutions (deep: agents/tool-calling, backend integration, data processing, evaluation/metrics, retrieval/RAG, state/memory, training/fine-tuning). Cut new-agent integration time 60% by building a multi-agent orchestration SDK that unified 8 agents behind one interface with",
+      "projects": [
+        {
+          "title": "NetoAI Solutions Jan 2026 – Present / Generative AI Engineer Intern Remote",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG",
+            "state/memory",
+            "training/fine-tuning"
+          ],
+          "verdict": "deep",
+          "evidence": "Cut new-agent integration time 60% by building a multi-agent orchestration SDK that unified 8 agents behind one interface with"
+        },
+        {
+          "title": "CopyGuard – Serverless GenAI Code Detection Platform | GitHub | Demo",
+          "section": "projects",
+          "signals": [
+            "LLM calls"
+          ],
+          "verdict": "thin_wrapper",
+          "evidence": "AWS Lambda, Bedrock Claude, Terraform, S3, CloudFront, Grafana – serverless GenAI detection service handling burst traffic"
+        },
+        {
+          "title": "Candida Hyphae Segmentation – Deep Learning for Medical Imaging",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "PyTorch, EfficientNet-B4, A100 GPU – custom Gabor-guided UNet for clinical image segmentation achieving Dice 0.72 | IoU 0.56"
+        },
+        {
+          "title": "• Y. Maini (First Author) et al., “Breast Tumor Classification with Fine-Tuned Hyperparameter Training using Deep Learni",
+          "section": "research",
+          "signals": [
+            "classic ML/DL",
+            "training/fine-tuning"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "• Y. Maini (First Author) et al., “Xception for Tomato Leaf Disease Detection: Hyperparameter Tuning and Fine-tuning,” 2024"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Cut end-to-end voice latency 40% to under 600ms under concurrent load by re-engineering the async Python inference layer with",
+          "[projects] Python, FastAPI, MongoDB, MLflow, Docker, AWS EC2 – modular ingest→validate→train→serve pipeline with full CI/CD;",
+          "[skills] Backend & APIs: Python, FastAPI, Flask, AsyncIO, REST, WebSockets, Microservices, Salesforce/SMTP integrations, Bash",
+          "[summary] Engineer (B.Tech ’26) building production LLM agent systems and the Python backends behind them – async voice pipelines at"
+        ],
+        "ai": [
+          "[experience] NetoAI Solutions Jan 2026 – Present / Generative AI Engineer Intern Remote (agentic, llm, retrieval)",
+          "[projects] CopyGuard – Serverless GenAI Code Detection Platform | GitHub | Demo (llm)"
+        ]
+      },
+      "github": {
+        "username": "Yashmaini30",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 45,
+        "maintained_repos": 11,
+        "relevant_repos": [
+          "face-verification-resnet50",
+          "pg-reliability-agent",
+          "glove-detection-yolo",
+          "LangChain-with-Python",
+          "Gaze-Prediction",
+          "Histology-Candida-Analysis",
+          "NASA-Turbofan-RUL",
+          "CartPole-InvertedPendulum"
+        ],
+        "last_push_days_ago": 17,
+        "recent_commits_90d": 2,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "45 owned public repos, 11 updated in the last year, 8 Python/AI-relevant; last push 17d ago, 2 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: NetoAI Solutions",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "Python used in professional work"
+      ],
+      "concerns": [
+        "Thin LLM wrapper: CopyGuard – Serverless GenAI Code Detection Platform",
+        "Listed in skills but not shown in any project: LangChain, Vector DB",
+        "No evidence of Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Yash Maini"
+    },
+    {
+      "rank": 3,
+      "file": "candidate_30.pdf",
+      "candidate_name": "V Sree Raghu Vardhan",
+      "email": "vardhanvsr2004@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 86.5,
+      "score_breakdown": {
+        "ai_project_depth": 36.0,
+        "python_backend": 30.0,
+        "cloud_fullstack": 8.5,
+        "github": 7.0,
+        "engineering_depth": 5.0
+      },
+      "rule_ai_depth": 36.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Async",
+        "Redis",
+        "MongoDB",
+        "REST APIs",
+        "LangChain",
+        "MCP",
+        "OpenAI API",
+        "RAG",
+        "Embeddings",
+        "AWS",
+        "Azure",
+        "CI/CD",
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "project_summary": "Darwinbox – Hyderabad, India (deep: agents/tool-calling, backend integration, data processing, evaluation/metrics, retrieval/RAG, state/memory). Built LangChain-based multi-step AI agent workflows integrating enterprise APIs, MCP tools, semantic retrieval, document processing, and business (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "Darwinbox – Hyderabad, India / SDE-1 / 07/2025 – 04/2026",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG",
+            "state/memory"
+          ],
+          "verdict": "deep",
+          "evidence": "Built LangChain-based multi-step AI agent workflows integrating enterprise APIs, MCP tools, semantic retrieval, document processing, and business"
+        },
+        {
+          "title": "Darwinbox – Hyderabad, India / SDE Intern / 01/2025 - 06/2025",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration"
+          ],
+          "verdict": "moderate",
+          "evidence": "Built a production Business Requirements Document generation platform using FastAPI, Azure/OpenAI LLM APIs, structured document templates, and"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Developed production-grade backend services and REST APIs using Python, FastAPI, MongoDB, Redis, and SQL to power AI-driven enterprise HRMS",
+          "[projects] Python Packaging Authority (PyPA) — Bandersnatch",
+          "[summary] Software Engineer with experience building production AI backend systems using Python, FastAPI, LangChain, Azure OpenAI, PostgreSQL, MongoDB,",
+          "Python frameworks used in projects/work: Django, FastAPI"
+        ],
+        "ai": [
+          "[experience] Darwinbox – Hyderabad, India / SDE-1 / 07/2025 – 04/2026 (agentic, llm, retrieval)",
+          "[experience] Darwinbox – Hyderabad, India / SDE Intern / 01/2025 - 06/2025 (llm)"
+        ]
+      },
+      "github": {
+        "username": "raghuvardhan07",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 28,
+        "maintained_repos": 3,
+        "relevant_repos": [
+          "wexa-ai-assignment",
+          "ChatGPT-QoL"
+        ],
+        "last_push_days_ago": 34,
+        "recent_commits_90d": 1,
+        "activity_points": 4.0,
+        "repo_points": 3.0
+      },
+      "github_summary": "28 owned public repos, 3 updated in the last year, 2 Python/AI-relevant; last push 34d ago, 1 public commit in 90d.",
+      "strengths": [
+        "Deep AI system: Darwinbox – Hyderabad, India",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "Python used in professional work"
+      ],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "V Sree Raghu Vardhan"
+    },
+    {
+      "rank": 4,
+      "file": "candidate_07.pdf",
+      "candidate_name": "Jyandeep Baishya",
+      "email": "craftzyan@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 86.0,
+      "score_breakdown": {
+        "ai_project_depth": 38.0,
+        "python_backend": 27.0,
+        "cloud_fullstack": 7.0,
+        "github": 10.0,
+        "engineering_depth": 4.0
+      },
+      "rule_ai_depth": 38.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "Async",
+        "Redis",
+        "WebSockets/SSE",
+        "LangGraph",
+        "RAG",
+        "Vector DB",
+        "AWS",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "REST APIs",
+        "LangChain",
+        "MCP",
+        "Node.js"
+      ],
+      "project_summary": "Agentic RAG Assistant (deep: agents/tool-calling, backend integration, evaluation/metrics, retrieval/RAG, state/memory). Orchestrated a multi-agent chat system on a LangGraph StateGraph — a supervisor routing each turn across 3 (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "Spiral Kite Labs — Software Engineer Oct 2025 – Present / LangGraph, Next.js, TypeScript, FastAPI, S3, ChromaDB / Lexo",
+          "section": "experience",
+          "signals": [
+            "agents/tool-calling",
+            "backend integration",
+            "data processing",
+            "retrieval/RAG",
+            "state/memory"
+          ],
+          "verdict": "deep",
+          "evidence": "Redux, backend services and LangGraph agents, eliminating duplicated update paths and preserving deterministic state"
+        },
+        {
+          "title": "Agentic RAG Assistant | LangGraph, FastAPI, Elasticsearch, Redis, SSE",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "evaluation/metrics",
+            "retrieval/RAG",
+            "state/memory"
+          ],
+          "verdict": "deep",
+          "evidence": "Orchestrated a multi-agent chat system on a LangGraph StateGraph — a supervisor routing each turn across 3"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] and variable overlays, so the editor, API automation layer, and Python renderer could evolve without schema drift.",
+          "[skills] AI Systems: Python, LangGraph, LangChain, RAG, ReAct, Multi-Agent Systems, MCP, Tool Calling, Evals, LLMOPS",
+          "Python frameworks used in projects/work: FastAPI, LangGraph, Pydantic"
+        ],
+        "ai": [
+          "[experience] Spiral Kite Labs — Software Engineer Oct 2025 – Present / LangGraph, Next.js, TypeScript,  (agentic, retrieval)",
+          "[projects] Agentic RAG Assistant | LangGraph, FastAPI, Elasticsearch, Redis, SSE (agentic, llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "ZyanHere",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 44,
+        "maintained_repos": 9,
+        "relevant_repos": [
+          "Zyan-is-RAGged",
+          "Zyan-analyzing-biomech",
+          "Zyan-creating-notes",
+          "Zyan_agent_for_roadmap",
+          "lexo-agent-cli"
+        ],
+        "last_push_days_ago": 0,
+        "recent_commits_90d": 30,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "44 owned public repos, 9 updated in the last year, 5 Python/AI-relevant; last push 0d ago, 30 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: Spiral Kite Labs — Software Engineer",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "Python used in professional work"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: LangChain, MCP",
+        "No evidence of PostgreSQL"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Jyandeep Baishya"
+    },
+    {
+      "rank": 5,
+      "file": "candidate_22.pdf",
+      "candidate_name": "Prajwal A S",
+      "email": "prajwalas8999@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 84.0,
+      "score_breakdown": {
+        "ai_project_depth": 37.0,
+        "python_backend": 30.0,
+        "cloud_fullstack": 5.0,
+        "github": 9.0,
+        "engineering_depth": 3.0
+      },
+      "rule_ai_depth": 37.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "SQLAlchemy",
+        "Async",
+        "PostgreSQL",
+        "REST APIs",
+        "LangChain",
+        "LangGraph",
+        "OpenAI API",
+        "Ollama",
+        "RAG",
+        "Vector DB",
+        "React",
+        "Pydantic",
+        "Embeddings",
+        "Prompt Engineering",
+        "JavaScript"
+      ],
+      "project_summary": "Project Associate - I (deep: agents/tool-calling, backend integration, data processing, evaluation/metrics, retrieval/RAG, state/memory). Built a really fast LLM inference pipeline through prompt restructuring, token reduction, and RAG-style few-shot context (+3 more substantive AI projects)",
+      "projects": [
+        {
+          "title": "Project Associate - I | CSIR Fourth Paradigm Institute (CSIR-4PI) / Sep 2025 – Mar 2026 | Bangalore, India | HPC Infrast",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG",
+            "state/memory"
+          ],
+          "verdict": "deep",
+          "evidence": "Built a really fast LLM inference pipeline through prompt restructuring, token reduction, and RAG-style few-shot context"
+        },
+        {
+          "title": "SC26 Submission — Supercomputing 2026 (Under Review), Apr 2026",
+          "section": "research",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "evaluation/metrics"
+          ],
+          "verdict": "moderate",
+          "evidence": "NL-to-SQL interface with a locally-deployed LLM achieving 93.0% accuracy on 1,000 production queries in an air-gapped"
+        },
+        {
+          "title": "AI Voice Appointment Assistant — Healthcare Voice AI Agent / Python · FastAPI · LiveKit Agents · React · PostgreSQL (Neo",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics"
+          ],
+          "verdict": "deep",
+          "evidence": "Designed a tool-calling architecture so the LLM never invents appointment IDs or availability — every action is backed by a"
+        },
+        {
+          "title": "AI-Powered HPC Monitoring Assistant — CHAMP Supercomputer",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG"
+          ],
+          "verdict": "deep",
+          "evidence": "Python · FastAPI · PostgreSQL · pgvector · LangChain · LangGraph · Ollama · React · Grafana"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Python · FastAPI · LiveKit Agents · React · PostgreSQL (Neon) · Sarvam AI (STT/TTS)",
+          "[skills] Languages: Python, SQL, JavaScript",
+          "[summary] Python backend developer with experience building GenAI systems, REST APIs, and LLM-powered AI agents. Co-designed and",
+          "[header] Python Backend Developer · AI Agents & RAG Systems"
+        ],
+        "ai": [
+          "[experience] Project Associate - I | CSIR Fourth Paradigm Institute (CSIR-4PI) / Sep 2025 – Mar 2026 |  (agentic, llm, retrieval)",
+          "[research] SC26 Submission — Supercomputing 2026 (Under Review), Apr 2026 (agentic, llm)",
+          "[projects] AI Voice Appointment Assistant — Healthcare Voice AI Agent / Python · FastAPI · LiveKit Ag (agentic, llm)"
+        ]
+      },
+      "github": {
+        "username": "prajwalas1",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 31,
+        "maintained_repos": 8,
+        "relevant_repos": [
+          "voice-ai-backend",
+          "voice-ai-frontend",
+          "python-low-level-design",
+          "medical-ai-assistant",
+          "HPC-Chatbot-Public",
+          "HPC-Monitoring-Framework",
+          "AI_IMAGE_CREATOR",
+          "AI_IMAGE_GENERATOR"
+        ],
+        "last_push_days_ago": 60,
+        "recent_commits_90d": 0,
+        "activity_points": 4.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "31 owned public repos, 8 updated in the last year, 8 Python/AI-relevant; last push 60d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: Project Associate - I | CSIR Fourth Paradigm Institute (CSIR-4PI)",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "FastAPI backend in projects/work"
+      ],
+      "concerns": [
+        "No evidence of Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Prajwal A S"
+    },
+    {
+      "rank": 6,
+      "file": "candidate_17.pdf",
+      "candidate_name": "Gourab Das",
+      "email": "gourabdas1307@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 81.5,
+      "score_breakdown": {
+        "ai_project_depth": 32.0,
+        "python_backend": 27.0,
+        "cloud_fullstack": 11.5,
+        "github": 7.0,
+        "engineering_depth": 4.0
+      },
+      "rule_ai_depth": 32.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "FastAPI",
+        "Django",
+        "Flask",
+        "Async",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "LangGraph",
+        "Vector DB",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "React",
+        "Spring Boot",
+        "Kafka",
+        "pytest",
+        "Python",
+        "Redis",
+        "MySQL",
+        "LangChain",
+        "RAG",
+        "Java",
+        "C++"
+      ],
+      "project_summary": "Software Developer (deep: agents/tool-calling, backend integration, data processing, evaluation/metrics, retrieval/RAG). Engineered tool-augmented AI agents using LangGraph to automate intelligence gathering. Integrated generic",
+      "projects": [
+        {
+          "title": "Software Developer November 2025 – Present / Staqu Technologies Gurgaon, India",
+          "section": "experience",
+          "signals": [
+            "agents/tool-calling",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG"
+          ],
+          "verdict": "deep",
+          "evidence": "Engineered tool-augmented AI agents using LangGraph to automate intelligence gathering. Integrated generic"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[skills] Languages: Python, Java, C++, SQL",
+          "[summary] enterprise applications using Python (Django/FastAPI) and Java. Experienced in semantic search, multi-tenant",
+          "Python frameworks used in projects/work: Django, FastAPI, Flask, LangGraph"
+        ],
+        "ai": [
+          "[experience] Software Developer November 2025 – Present / Staqu Technologies Gurgaon, India (agentic, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "gdas37467",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 12,
+        "maintained_repos": 1,
+        "relevant_repos": [
+          "zupay"
+        ],
+        "last_push_days_ago": 16,
+        "recent_commits_90d": 1,
+        "activity_points": 5.0,
+        "repo_points": 2.0
+      },
+      "github_summary": "12 owned public repos, 1 updated in the last year, 1 Python/AI-relevant; last push 16d ago, 1 public commit in 90d.",
+      "strengths": [
+        "Deep AI system: Software Developer",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "FastAPI backend in projects/work"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: LangChain, RAG",
+        "Python appears only in skills/summary; no project names it explicitly"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Gourab Das"
+    },
+    {
+      "rank": 7,
+      "file": "candidate_28.pdf",
+      "candidate_name": "Sumaiya Sultana Shaik",
+      "email": "sultanasumaiya623@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 80.0,
+      "score_breakdown": {
+        "ai_project_depth": 30.0,
+        "python_backend": 23.5,
+        "cloud_fullstack": 12.5,
+        "github": 10.0,
+        "engineering_depth": 4.0
+      },
+      "rule_ai_depth": 30.0,
+      "llm_ai_depth": null,
+      "penalties": [
+        "-5: thin LLM-wrapper project(s) with no retrieval/agent/state/eval/backend logic: A Hybrid AI Framework for Privacy Risk Analysis in Digital…"
+      ],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "WebSockets/SSE",
+        "LangChain",
+        "RAG",
+        "scikit-learn",
+        "NLP",
+        "GCP",
+        "Docker",
+        "React",
+        "TypeScript",
+        "pytest",
+        "LangGraph",
+        "Prompt Engineering",
+        "CI/CD",
+        "Java"
+      ],
+      "project_summary": "◦ Stack: Python, FastAPI, scikit-learn, spaCy, Presidio, LangChain,… (deep: agents/tool-calling, backend integration, classic ML/DL, data processing, retrieval/RAG). ◦ Built a full-stack personal finance assistant using an agent-based architecture and a Retrieval-Augmented Generation (+2 more substantive AI projects)",
+      "projects": [
+        {
+          "title": "• / Techolution Hyderabad, India / Software Engineering Intern (Python, FastAPI, React, TypeScript, Docker, GCP) Oct 202",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration"
+          ],
+          "verdict": "moderate",
+          "evidence": "◦ Designed prompt architectures and orchestration logic for a multi-agent document-generation system (Request Analysis,"
+        },
+        {
+          "title": "• Privacy Risk Intelligence Platform [GitHub] 2026",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "classic ML/DL",
+            "evaluation/metrics"
+          ],
+          "verdict": "moderate",
+          "evidence": "entity types, a Random Forest classifier scoring text as LOW/MEDIUM/HIGH risk (∼89% accuracy on a held-out test"
+        },
+        {
+          "title": "◦ Stack: Python, FastAPI, scikit-learn, spaCy, Presidio, LangChain, MongoDB, React, Tailwind CSS.",
+          "section": "research",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "classic ML/DL",
+            "data processing",
+            "retrieval/RAG"
+          ],
+          "verdict": "deep",
+          "evidence": "◦ Built a full-stack personal finance assistant using an agent-based architecture and a Retrieval-Augmented Generation"
+        },
+        {
+          "title": "• A Hybrid AI Framework for Privacy Risk Analysis in Digital Footprints Using NLP, ML, and LLMs:",
+          "section": "research",
+          "signals": [
+            "LLM calls",
+            "classic ML/DL"
+          ],
+          "verdict": "thin_wrapper",
+          "evidence": "Peer-reviewed paper on automated PII detection, ML-based risk classification, and LLM-driven remediation using a hybrid"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Software Engineering Intern (Python, FastAPI, React, TypeScript, Docker, GCP) Oct 2025 to Apr 2026",
+          "[research] ◦ Stack: Python, FastAPI, scikit-learn, spaCy, Presidio, LangChain, MongoDB, React, Tailwind CSS.",
+          "[skills] Languages: Python, Java, TypeScript, SQL",
+          "Python frameworks used in projects/work: FastAPI, scikit-learn"
+        ],
+        "ai": [
+          "[experience] • / Techolution Hyderabad, India / Software Engineering Intern (Python, FastAPI, React, Ty (agentic, llm)",
+          "[projects] • Privacy Risk Intelligence Platform [GitHub] 2026 (llm)",
+          "[research] ◦ Stack: Python, FastAPI, scikit-learn, spaCy, Presidio, LangChain, MongoDB, React, Tailwi (agentic, llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "sumaiya226",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 29,
+        "maintained_repos": 9,
+        "relevant_repos": [
+          "skillmap-agent",
+          "docuchat-agent",
+          "study-assistant",
+          "technical-assignment",
+          "PCOS",
+          "crowdwisdomtrading_ai_agent",
+          "binance-futures-bot",
+          "talentscout-hiring-assistant"
+        ],
+        "last_push_days_ago": 23,
+        "recent_commits_90d": 1,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "29 owned public repos, 9 updated in the last year, 8 Python/AI-relevant; last push 23d ago, 1 public commit in 90d.",
+      "strengths": [
+        "Deep AI system: ◦ Stack: Python, FastAPI, scikit-learn, spaCy, Presidio, LangChain,…",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "Python used in professional work"
+      ],
+      "concerns": [
+        "Thin LLM wrapper: A Hybrid AI Framework for Privacy Risk Analysis in Digital…",
+        "Listed in skills but not shown in any project: LangGraph",
+        "No evidence of Async, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Sumaiya Sultana Shaik"
+    },
+    {
+      "rank": 8,
+      "file": "candidate_08.pdf",
+      "candidate_name": "Arjun Kumar",
+      "email": "roy.prajapat.143@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 78.5,
+      "score_breakdown": {
+        "ai_project_depth": 33.0,
+        "python_backend": 29.0,
+        "cloud_fullstack": 4.5,
+        "github": 10.0,
+        "engineering_depth": 2.0
+      },
+      "rule_ai_depth": 33.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Async",
+        "PostgreSQL",
+        "REST APIs",
+        "LangChain",
+        "LangGraph",
+        "Embeddings",
+        "OpenCV",
+        "NLP",
+        "React",
+        "Next.js",
+        "MongoDB",
+        "Hugging Face",
+        "RAG",
+        "Prompt Engineering",
+        "TensorFlow",
+        "scikit-learn",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "AWS",
+        "CI/CD",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Java",
+        "C++"
+      ],
+      "project_summary": "AI-Powered Resume Screening & Job Matching System (deep: backend integration, classic ML/DL, evaluation/metrics, retrieval/RAG, state/memory). Built an end-to-end resume screening tool using BERT embeddings and NLP for semantic matching, hitting 96% accuracy; (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "AI-Powered Resume Screening & Job Matching System Sep 2025 – Nov 2025 / Python, BERT, NLP, LangChain, ReactJS, Django RE",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "classic ML/DL",
+            "evaluation/metrics",
+            "retrieval/RAG",
+            "state/memory"
+          ],
+          "verdict": "deep",
+          "evidence": "Built an end-to-end resume screening tool using BERT embeddings and NLP for semantic matching, hitting 96% accuracy;"
+        },
+        {
+          "title": "Deepfake Detection System (Multimodal & Explainable AI) Jan 2026 – May 2026 / Python, FastAPI, OpenCV, Vision Transforme",
+          "section": "projects",
+          "signals": [
+            "agents/tool-calling",
+            "backend integration",
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics"
+          ],
+          "verdict": "deep",
+          "evidence": "Wired up a Next.js frontend with an optimized inference flow to keep detection results snappy, and used LangGraph to"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Trained and compared ML classification models in Python, handling feature engineering and data preprocessing from scratch to",
+          "[projects] Python, BERT, NLP, LangChain, ReactJS, Django REST API, PostgreSQL",
+          "[skills] Languages: Python, Java, C++, JavaScript, TypeScript, SQL, HTML, CSS",
+          "Python frameworks used in projects/work: Django, FastAPI, LangGraph"
+        ],
+        "ai": [
+          "[projects] AI-Powered Resume Screening & Job Matching System Sep 2025 – Nov 2025 / Python, BERT, NLP, (llm, retrieval)",
+          "[projects] Deepfake Detection System (Multimodal & Explainable AI) Jan 2026 – May 2026 / Python, Fast (agentic)"
+        ]
+      },
+      "github": {
+        "username": "arjunkumaritsme12",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 24,
+        "maintained_repos": 23,
+        "relevant_repos": [
+          "ShiporaX",
+          "leadpulse-ai",
+          "primetrade_assignment",
+          "EduMind-AI-Adaptive-Learning-Mentor",
+          "Claude-Code-Qwen3-Assignment",
+          "Deepfake-Detection-Multimodal-Explainable-AI-Mini-project",
+          "Medical-RAG-System-for-Healthcare-Knowledge-Access",
+          "AI-Resume-Screening-System"
+        ],
+        "last_push_days_ago": 9,
+        "recent_commits_90d": 2,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "24 owned public repos, 23 updated in the last year, 8 Python/AI-relevant; last push 9d ago, 2 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: AI-Powered Resume Screening & Job Matching System",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "Python used in professional work"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: RAG",
+        "No evidence of Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Arjun Kumar"
+    },
+    {
+      "rank": 9,
+      "file": "candidate_50.pdf",
+      "candidate_name": "Nevil Jasmin Mehta",
+      "email": "nevilmehta5@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 77.0,
+      "score_breakdown": {
+        "ai_project_depth": 24.0,
+        "python_backend": 30.0,
+        "cloud_fullstack": 10.0,
+        "github": 10.0,
+        "engineering_depth": 3.0
+      },
+      "rule_ai_depth": 24.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Celery",
+        "Async",
+        "PostgreSQL",
+        "Redis",
+        "MySQL",
+        "MongoDB",
+        "RAG",
+        "Vector DB",
+        "Embeddings",
+        "Prompt Engineering",
+        "NLP",
+        "AWS",
+        "Docker",
+        "React",
+        "JavaScript",
+        "Java",
+        "Flask",
+        "REST APIs",
+        "pandas",
+        "NumPy",
+        "C++"
+      ],
+      "project_summary": "AI Document Intelligence (deep: backend integration, data processing, evaluation/metrics, retrieval/RAG).  Built a document platform using RAG, FastAPI, Redis, Celery, pgvector, Nginx & LLMs, improving retrieval accuracy. (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "Python Developer, Rejoicehub Solutions Jan 2022 – May 2022",
+          "section": "experience",
+          "signals": [
+            "backend integration",
+            "classic ML/DL"
+          ],
+          "verdict": "classic_ml",
+          "evidence": " Built backend systems with MongoDB and MySQL, implementing NLP-based data processing and text summarization."
+        },
+        {
+          "title": "AI Document Intelligence",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG"
+          ],
+          "verdict": "deep",
+          "evidence": " Built a document platform using RAG, FastAPI, Redis, Celery, pgvector, Nginx & LLMs, improving retrieval accuracy."
+        },
+        {
+          "title": "Plagiarism Detection for Large Language Models through Watermarking Method, Dissertation 2024",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "evaluation/metrics"
+          ],
+          "verdict": "moderate",
+          "evidence": " Enhanced an AI content detection system using watermarking for LLMs, improving detection accuracy by 40%."
+        },
+        {
+          "title": "Sentimental Analysis of Different Aspects, Industrial Project 2022",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL"
+          ],
+          "verdict": "classic_ml",
+          "evidence": " Built a full-stack NLP application for sentiment and emotion analysis using real-time Twitter and YouTube data."
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience]  Optimized data queries and automated CAD workflows using Python, improving scalability and reducing manual effort.",
+          "[skills] Languages: Python, Java, C++, JavaScript, R",
+          "[summary] Backend-focused software engineer with experience building scalable systems and clean APIs using Python frameworks",
+          "Python frameworks used in projects/work: Celery, Django, FastAPI"
+        ],
+        "ai": [
+          "[projects] AI Document Intelligence (llm, retrieval)",
+          "[projects] Plagiarism Detection for Large Language Models through Watermarking Method, Dissertation 2 (llm)"
+        ]
+      },
+      "github": {
+        "username": "Nevilmehta",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 19,
+        "maintained_repos": 15,
+        "relevant_repos": [
+          "neetcode-submissions",
+          "stocks-ai",
+          "Memory-Garden",
+          "personal-ai-assistant",
+          "Haystack-rag-chat",
+          "ai-document-intelligence",
+          "haystack-study-notes-assistant",
+          "Infomaniac-newsapp"
+        ],
+        "last_push_days_ago": 3,
+        "recent_commits_90d": 41,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "19 owned public repos, 15 updated in the last year, 8 Python/AI-relevant; last push 3d ago, 41 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: AI Document Intelligence",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "Python used in professional work",
+        "FastAPI backend in projects/work"
+      ],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Nevil Jasmin Mehta"
+    },
+    {
+      "rank": 10,
+      "file": "candidate_33.pdf",
+      "candidate_name": "Vaibhav Wakde",
+      "email": "vaibhavwakde266@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 73.0,
+      "score_breakdown": {
+        "ai_project_depth": 32.0,
+        "python_backend": 25.0,
+        "cloud_fullstack": 4.0,
+        "github": 9.0,
+        "engineering_depth": 3.0
+      },
+      "rule_ai_depth": 32.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Async",
+        "REST APIs",
+        "LangChain",
+        "LangGraph",
+        "LlamaIndex",
+        "Ollama",
+        "Hugging Face",
+        "RAG",
+        "Vector DB",
+        "Embeddings",
+        "Fine-tuning",
+        "JavaScript",
+        "MySQL",
+        "pandas",
+        "NumPy",
+        "OpenAI API",
+        "Prompt Engineering",
+        "AWS",
+        "Docker",
+        "C++",
+        "pytest"
+      ],
+      "project_summary": " (deep: backend integration, classic ML/DL, data processing, retrieval/RAG, training/fine-tuning). ◦ Built an AI-powered invoice analysis platform using Python, Flask, OCR, RAG, and Weaviate, enabling (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "• / Coding Nebula, Software developer Jan 2025 - May 2026",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "classic ML/DL",
+            "data processing",
+            "retrieval/RAG",
+            "training/fine-tuning"
+          ],
+          "verdict": "deep",
+          "evidence": "◦ Built an AI-powered invoice analysis platform using Python, Flask, OCR, RAG, and Weaviate, enabling"
+        },
+        {
+          "title": "AI-Powered Healthcare Interaction Management System | FastAPI, LangGraph, Groq LLM",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration"
+          ],
+          "verdict": "moderate",
+          "evidence": "Built a LangGraph-based AI agent with tool calling to automate interaction logging, editing, follow-up scheduling,"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] ◦ Built an AI-powered invoice analysis platform using Python, Flask, OCR, RAG, and Weaviate, enabling",
+          "[skills] Languages: Python, C++, JavaScript, SQL",
+          "Python frameworks used in projects/work: FastAPI, Flask, LangGraph, LlamaIndex"
+        ],
+        "ai": [
+          "[experience] • / Coding Nebula, Software developer Jan 2025 - May 2026 (llm, retrieval)",
+          "[projects] AI-Powered Healthcare Interaction Management System | FastAPI, LangGraph, Groq LLM (agentic, llm)"
+        ]
+      },
+      "github": {
+        "username": "vaibhavw1",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 10,
+        "maintained_repos": 4,
+        "relevant_repos": [
+          "AI-First-CRM-HCP-Module",
+          "reimbursement-agent",
+          "job-search-assistance"
+        ],
+        "last_push_days_ago": 21,
+        "recent_commits_90d": 2,
+        "activity_points": 5.0,
+        "repo_points": 4.0
+      },
+      "github_summary": "10 owned public repos, 4 updated in the last year, 3 Python/AI-relevant; last push 21d ago, 2 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: ",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Python used in professional work",
+        "FastAPI backend in projects/work"
+      ],
+      "concerns": [
+        "No evidence of PostgreSQL, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Vaibhav Wakde"
+    },
+    {
+      "rank": 11,
+      "file": "candidate_10.pdf",
+      "candidate_name": "Abhinav Mishra",
+      "email": "abhinavmishra3322@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 72.5,
+      "score_breakdown": {
+        "ai_project_depth": 26.0,
+        "python_backend": 24.0,
+        "cloud_fullstack": 8.5,
+        "github": 10.0,
+        "engineering_depth": 4.0
+      },
+      "rule_ai_depth": 26.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "LangGraph",
+        "OpenAI API",
+        "Azure",
+        "CI/CD",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "RAG",
+        "JavaScript"
+      ],
+      "project_summary": "Construct IDE (Electron, LangGraph, OpenAI, Prisma, PostgreSQL,… (moderate: agents/tool-calling, backend integration, state/memory). ● Building an AI-native teaching IDE that converts project goals into a personalized coding workspace with generated lessons, concept (+3 more substantive AI projects)",
+      "projects": [
+        {
+          "title": "LUNACAL.AI (AI Scheduling SaaS with a highly successful AppSumo launch) lunacal.ai | Bangalore, KA / Software Developer ",
+          "section": "experience",
+          "signals": [
+            "agents/tool-calling",
+            "backend integration",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "● Built complete CI/testing infrastructure and a LaunchDarkly-style production rollout system, enabling safe beta releases,"
+        },
+        {
+          "title": "EXPERT BUDDY (Ed-tech platform used by 200,000+ students) expertbuddy.com | Jaipur, RJ / Next.js Frontend Developer Inte",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "state/memory"
+          ],
+          "verdict": "moderate",
+          "evidence": "by 42%, and developed a generative AI PDF analysis system using Vercel AI SDK that processed 100+ page documents in <5s,"
+        },
+        {
+          "title": "Construct IDE (Electron, LangGraph, OpenAI, Prisma, PostgreSQL, Turborepo) Mar 2026 - Present | Live Link | Source Code",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "state/memory"
+          ],
+          "verdict": "moderate",
+          "evidence": "● Building an AI-native teaching IDE that converts project goals into a personalized coding workspace with generated lessons, concept"
+        },
+        {
+          "title": "Decipath AI (Next.js, TypeScript, ShadCN UI, OpenAI API, React Flow) Jan 2025 - Mar 2025 | Live Link | Source Code",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling"
+          ],
+          "verdict": "moderate",
+          "evidence": "● Built a full-stack AI roadmap-generation SaaS where an agent searches the web, grounds context, and generates structured roadmap"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] XiteCoin Blockchain (Python – no external dependencies) Jan 2024 - Jun 2024 | Source Code",
+          "[skills] Languages: TypeScript, JavaScript, Python",
+          "Python frameworks used in projects/work: FastAPI, LangGraph"
+        ],
+        "ai": [
+          "[experience] LUNACAL.AI (AI Scheduling SaaS with a highly successful AppSumo launch) lunacal.ai | Banga (agentic)",
+          "[experience] EXPERT BUDDY (Ed-tech platform used by 200,000+ students) expertbuddy.com | Jaipur, RJ / N (agentic, llm)",
+          "[projects] Construct IDE (Electron, LangGraph, OpenAI, Prisma, PostgreSQL, Turborepo) Mar 2026 - Pres (agentic, llm)"
+        ]
+      },
+      "github": {
+        "username": "AbhinavMishra32",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 49,
+        "maintained_repos": 20,
+        "relevant_repos": [
+          "spar",
+          "hackathon-datahub-schemaguard",
+          "fxpnt",
+          "xitecoin",
+          "DecipathAI",
+          "pdf-rag",
+          "metacall-ai-docs-assistant",
+          "yt-trend-analyser"
+        ],
+        "last_push_days_ago": 1,
+        "recent_commits_90d": 36,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "49 owned public repos, 20 updated in the last year, 8 Python/AI-relevant; last push 1d ago, 36 public commits in 90d.",
+      "strengths": [
+        "Agentic / tool-calling work shown in projects or jobs",
+        "FastAPI backend in projects/work",
+        "Engineering depth: caching, concurrency, failure handling, observability"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: RAG",
+        "No evidence of Async"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Abhinav Mishra"
+    },
+    {
+      "rank": 12,
+      "file": "candidate_40.pdf",
+      "candidate_name": "Raj Thumar",
+      "email": "thumarraj999@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 72.1,
+      "score_breakdown": {
+        "ai_project_depth": 33.0,
+        "python_backend": 24.6,
+        "cloud_fullstack": 6.5,
+        "github": 3.0,
+        "engineering_depth": 5.0
+      },
+      "rule_ai_depth": 33.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Async",
+        "PostgreSQL",
+        "Redis",
+        "REST APIs",
+        "MCP",
+        "OpenAI API",
+        "Gemini",
+        "RAG",
+        "AWS",
+        "React",
+        "Node.js",
+        "Kafka",
+        "MySQL",
+        "MongoDB",
+        "Docker",
+        "CI/CD",
+        "TypeScript",
+        "JavaScript",
+        "C++"
+      ],
+      "project_summary": "AI Workflow Orchestration Engine(NestJS, Apache Kafka, PostgreSQL,… (deep: agents/tool-calling, backend integration, data processing, retrieval/RAG). Developed reusable AI workflow components with MCP integration, scheduling, retries, and execution monitoring. (+2 more substantive AI projects)",
+      "projects": [
+        {
+          "title": "Blobstation / Software Engineer(Nodejs, NestJS, ASP.NET Core, ReactJS, AWS) / Ahmedabad, India / April 2024 - Present",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "retrieval/RAG"
+          ],
+          "verdict": "moderate",
+          "evidence": "Built AI-powered workflow automation by integrating OpenAI, Gemini, RAG, and MCP into backend services for intelligent"
+        },
+        {
+          "title": "Full-stack Developer(NodeJS, ExpressJS, GraphQL, ReactJS) / Ahmedabad, India / July 2023 - Jan 2024",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "state/memory"
+          ],
+          "verdict": "moderate",
+          "evidence": "Built a broadcast messaging system for WhatsApp and SMS, integrating chatbot automation to improve customer engagement."
+        },
+        {
+          "title": "AI Workflow Orchestration Engine(NestJS, Apache Kafka, PostgreSQL, Redis, OpenAI, Gemini):",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "data processing",
+            "retrieval/RAG"
+          ],
+          "verdict": "deep",
+          "evidence": "Developed reusable AI workflow components with MCP integration, scheduling, retries, and execution monitoring."
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] SDE Intern (Python, Flask, Phantom, Splunk SOAR System)",
+          "Python frameworks used in projects/work: Flask"
+        ],
+        "ai": [
+          "[experience] Blobstation / Software Engineer(Nodejs, NestJS, ASP.NET Core, ReactJS, AWS) / Ahmedabad, I (agentic, llm, retrieval)",
+          "[experience] Full-stack Developer(NodeJS, ExpressJS, GraphQL, ReactJS) / Ahmedabad, India / July 2023 - (llm)",
+          "[projects] AI Workflow Orchestration Engine(NestJS, Apache Kafka, PostgreSQL, Redis, OpenAI, Gemini): (agentic, llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "rthumar0903",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 10,
+        "maintained_repos": 2,
+        "relevant_repos": [],
+        "last_push_days_ago": 240,
+        "recent_commits_90d": 0,
+        "activity_points": 1.0,
+        "repo_points": 2.0
+      },
+      "github_summary": "10 owned public repos, 2 updated in the last year, 0 Python/AI-relevant; last push 240d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: AI Workflow Orchestration Engine(NestJS, Apache Kafka, PostgreSQL,…",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Python used in professional work",
+        "Engineering depth: architecture, caching, concurrency, failure handling"
+      ],
+      "concerns": [
+        "No evidence of FastAPI"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Raj Thumar"
+    },
+    {
+      "rank": 13,
+      "file": "candidate_37.pdf",
+      "candidate_name": "Aditi Kala",
+      "email": "aditi25.kala@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 70.5,
+      "score_breakdown": {
+        "ai_project_depth": 25.0,
+        "python_backend": 22.5,
+        "cloud_fullstack": 12.0,
+        "github": 10.0,
+        "engineering_depth": 1.0
+      },
+      "rule_ai_depth": 25.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "MongoDB",
+        "WebSockets/SSE",
+        "Gemini",
+        "PyTorch",
+        "OpenCV",
+        "Machine Learning",
+        "GCP",
+        "Docker",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "TensorFlow",
+        "Computer Vision",
+        "Java",
+        "C++"
+      ],
+      "project_summary": "Foundrly (moderate: backend integration, data processing). – Designed Gemini-powered AI pipelines for idea generation, roasting, and pitch rewriting, orchestrating multi-step (+2 more substantive AI projects)",
+      "projects": [
+        {
+          "title": "Software Engineer Intern June 2025 - Present / AI Assistant Pune",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling"
+          ],
+          "verdict": "moderate",
+          "evidence": "– Built an automated agent QA framework with scripted and LLM-to-LLM test modes and an LLM scoring engine,"
+        },
+        {
+          "title": "Python Developer Intern Dec 2024 - Dec 2024 / ThirdEye AI Gurugram",
+          "section": "experience",
+          "signals": [
+            "backend integration",
+            "classic ML/DL",
+            "evaluation/metrics"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "– Developed a machine learning shoplifting detection system using action recognition, improving detection accuracy by"
+        },
+        {
+          "title": "Foundrly | Node.js, Express.js, MongoDB, React.js, Google Gemini | Live Demo Nov 2025 - Nov 2025",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "– Designed Gemini-powered AI pipelines for idea generation, roasting, and pitch rewriting, orchestrating multi-step"
+        },
+        {
+          "title": "Kalamitra | NextJs, MongoDB, Firebase, FastAPI, Gemini, Stripe, Docker | Live Demo May 2025 - June 2025",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration"
+          ],
+          "verdict": "moderate",
+          "evidence": "– Built a voice-first artisan marketplace using the Web Speech API and Google Gemini to auto-generate listings, cutting"
+        },
+        {
+          "title": "Semantic Segmentation for Autonomous Vehicles | Python, PyTorch, OpenCV Jan 2025 - May 2025",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "evaluation/metrics",
+            "state/memory"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "– Benchmarked against U-Net and FPN baselines for the strongest results ( 77% pixel accuracy, per-class IoU up to"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Python Developer Intern Dec 2024 - Dec 2024",
+          "[projects] Semantic Segmentation for Autonomous Vehicles | Python, PyTorch, OpenCV Jan 2025 - May 2025",
+          "[skills] Languages: C, C++, Python, Java, SQL",
+          "Python frameworks used in projects/work: FastAPI, Flask, PyTorch"
+        ],
+        "ai": [
+          "[experience] Software Engineer Intern June 2025 - Present / AI Assistant Pune (agentic, llm)",
+          "[projects] Foundrly | Node.js, Express.js, MongoDB, React.js, Google Gemini | Live Demo Nov 2025 - No (llm)",
+          "[projects] Kalamitra | NextJs, MongoDB, Firebase, FastAPI, Gemini, Stripe, Docker | Live Demo May 202 (llm)"
+        ]
+      },
+      "github": {
+        "username": "why-aditi",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 49,
+        "maintained_repos": 27,
+        "relevant_repos": [
+          "Understudy",
+          "PitchPerfect",
+          "hinglish-turn-detector",
+          "linkedin-profile-api",
+          "ghost-town",
+          "Zycus-Assignment",
+          "Sieve",
+          "AI-Recruiter-Ranking-Engine"
+        ],
+        "last_push_days_ago": 5,
+        "recent_commits_90d": 69,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "49 owned public repos, 27 updated in the last year, 8 Python/AI-relevant; last push 5d ago, 69 public commits in 90d.",
+      "strengths": [
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Python used in professional work",
+        "FastAPI backend in projects/work",
+        "Cloud/containerised deployment (GCP, Docker)"
+      ],
+      "concerns": [
+        "No evidence of Async, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Aditi Kala"
+    },
+    {
+      "rank": 14,
+      "file": "candidate_44.pdf",
+      "candidate_name": "Vivek Chimnani",
+      "email": "vivekchimnani4231@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 69.5,
+      "score_breakdown": {
+        "ai_project_depth": 17.0,
+        "python_backend": 27.0,
+        "cloud_fullstack": 11.5,
+        "github": 10.0,
+        "engineering_depth": 4.0
+      },
+      "rule_ai_depth": 17.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "FastAPI",
+        "Async",
+        "PostgreSQL",
+        "Redis",
+        "REST APIs",
+        "WebSockets/SSE",
+        "LangGraph",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Python",
+        "MongoDB",
+        "Claude",
+        "Prompt Engineering",
+        "JavaScript"
+      ],
+      "project_summary": "AI Research Copilot (LangGraph) (moderate: agents/tool-calling, backend integration, state/memory). Built a production-style AI research assistant using React, FastAPI, LangGraph, and LLM APIs.",
+      "projects": [
+        {
+          "title": "AI Research Copilot (LangGraph) GitHub",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "state/memory"
+          ],
+          "verdict": "moderate",
+          "evidence": "Built a production-style AI research assistant using React, FastAPI, LangGraph, and LLM APIs."
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[skills] Languages: TypeScript, JavaScript, Python, Rust",
+          "Python frameworks used in projects/work: FastAPI, LangGraph"
+        ],
+        "ai": [
+          "[projects] AI Research Copilot (LangGraph) GitHub (agentic, llm)"
+        ]
+      },
+      "github": {
+        "username": "Vivekk-11",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 63,
+        "maintained_repos": 17,
+        "relevant_repos": [
+          "Dossier",
+          "Todos_project_fastapi",
+          "Fastapi_books_project-2",
+          "Books_App_FastAPI"
+        ],
+        "last_push_days_ago": 19,
+        "recent_commits_90d": 0,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "63 owned public repos, 17 updated in the last year, 4 Python/AI-relevant; last push 19d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Agentic / tool-calling work shown in projects or jobs",
+        "FastAPI backend in projects/work",
+        "Cloud/containerised deployment (Docker)",
+        "Engineering depth: architecture, concurrency, observability, queues"
+      ],
+      "concerns": [
+        "Python appears only in skills/summary; no project names it explicitly"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Vivek Chimnani"
+    },
+    {
+      "rank": 15,
+      "file": "candidate_47.pdf",
+      "candidate_name": "Kiran Naregal",
+      "email": "kirnaregal7@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 69.0,
+      "score_breakdown": {
+        "ai_project_depth": 38.0,
+        "python_backend": 18.0,
+        "cloud_fullstack": 5.0,
+        "github": 6.0,
+        "engineering_depth": 2.0
+      },
+      "rule_ai_depth": 38.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "LangChain",
+        "LangGraph",
+        "OpenAI API",
+        "Claude",
+        "Ollama",
+        "RAG",
+        "Machine Learning",
+        "AWS",
+        "MongoDB",
+        "pandas",
+        "Hugging Face",
+        "Docker",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Node.js",
+        "C++"
+      ],
+      "project_summary": "AI Engineer (deep: agents/tool-calling, data processing, evaluation/metrics, retrieval/RAG, training/fine-tuning). tables, enhancing semantic understanding for RAG-based retrieval systems. (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "AI Engineer July 2025 – Present / Vayavya Labs, Bangalore",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG",
+            "training/fine-tuning"
+          ],
+          "verdict": "deep",
+          "evidence": "tables, enhancing semantic understanding for RAG-based retrieval systems."
+        },
+        {
+          "title": "Machine Learning Intern Jan 2023 – May 2023 / Dana Anand, Hubli",
+          "section": "experience",
+          "signals": [
+            "classic ML/DL",
+            "training/fine-tuning"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Trained a robust object detection model to accurately identify whether each manufacturing step was"
+        },
+        {
+          "title": "Code Review Agent GitHub",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration"
+          ],
+          "verdict": "moderate",
+          "evidence": "Built a multi-agent code review API with LangGraph orchestrating three specialist agents (logic, security,"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Architected an end-to-end Python pipeline for converting hardware specification PDFs to structured",
+          "[skills] Languages: Python, JavaScript, C/C++",
+          "[summary] automated code review workflows using LangChain and Hugging Face, backed by expertise in Python, cloud-native",
+          "Python frameworks used in projects/work: FastAPI, LangGraph, Pydantic"
+        ],
+        "ai": [
+          "[experience] AI Engineer July 2025 – Present / Vayavya Labs, Bangalore (agentic, llm, retrieval)",
+          "[projects] Code Review Agent GitHub (agentic, llm)"
+        ]
+      },
+      "github": {
+        "username": "kiran-naregal",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 8,
+        "maintained_repos": 1,
+        "relevant_repos": [
+          "code-review-agent"
+        ],
+        "last_push_days_ago": 49,
+        "recent_commits_90d": 0,
+        "activity_points": 4.0,
+        "repo_points": 2.0
+      },
+      "github_summary": "8 owned public repos, 1 updated in the last year, 1 Python/AI-relevant; last push 49d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: AI Engineer",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "Python used in professional work"
+      ],
+      "concerns": [
+        "No evidence of Async, PostgreSQL, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Kiran Naregal"
+    },
+    {
+      "rank": 16,
+      "file": "candidate_43.pdf",
+      "candidate_name": "Arunima Saha",
+      "email": "arunimasaha11@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 68.0,
+      "score_breakdown": {
+        "ai_project_depth": 36.0,
+        "python_backend": 21.0,
+        "cloud_fullstack": 7.0,
+        "github": 0.0,
+        "engineering_depth": 4.0
+      },
+      "rule_ai_depth": 36.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "LangChain",
+        "LangGraph",
+        "OpenAI API",
+        "RAG",
+        "AWS",
+        "Docker",
+        "MySQL",
+        "REST APIs",
+        "Hugging Face",
+        "Vector DB",
+        "Embeddings",
+        "Prompt Engineering"
+      ],
+      "project_summary": "Tata Consultancy Services (deep: agents/tool-calling, backend integration, data processing, evaluation/metrics, retrieval/RAG, state/memory). Technology Stack: Python, LangGraph, LangChain, GPT-4o, FastAPI, Chainlit, PostgreSQL, Duffel API, SerpAPI, Docker, (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "Tata Consultancy Services Sept 2022 – Present / Project 1: Multi-Agent Travel Planning System — LangGraph + GPT-4o / ◆ A",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG",
+            "state/memory"
+          ],
+          "verdict": "deep",
+          "evidence": "Technology Stack: Python, LangGraph, LangChain, GPT-4o, FastAPI, Chainlit, PostgreSQL, Duffel API, SerpAPI, Docker,"
+        },
+        {
+          "title": "Project 3: AI-Based Text-to-SQL Chatbot — GPT-4o-mini + ECS Fargate + Lambda + RDS / ◆ GenAI Text-to-SQL Conversational ",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "data processing",
+            "retrieval/RAG"
+          ],
+          "verdict": "moderate",
+          "evidence": "Stack: Python, OpenAI API, GPT-4o-mini, AWS Lambda, Chainlit, Docker, Amazon ECR, Amazon ECS Fargate, Amazon RDS for"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Technology Stack: Python, LangGraph, LangChain, GPT-4o, FastAPI, Chainlit, PostgreSQL, Duffel API, SerpAPI, Docker,",
+          "[summary] Python, FastAPI, PySpark, SQL, ETL Pipeline Design, Data Warehousing, Dimensional Modeling,",
+          "Python frameworks used in projects/work: FastAPI, LangGraph"
+        ],
+        "ai": [
+          "[experience] Tata Consultancy Services Sept 2022 – Present / Project 1: Multi-Agent Travel Planning Sys (agentic, llm, retrieval)",
+          "[experience] Project 3: AI-Based Text-to-SQL Chatbot — GPT-4o-mini + ECS Fargate + Lambda + RDS / ◆ Gen (llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": null,
+        "status": "not_provided",
+        "detail": "GitHub link present but contains no username",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "No GitHub profile on resume (GitHub link present but contains no username)",
+      "strengths": [
+        "Deep AI system: Tata Consultancy Services",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "Python used in professional work"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: Vector DB",
+        "No evidence of Async, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Arunima Saha"
+    },
+    {
+      "rank": 17,
+      "file": "candidate_39.pdf",
+      "candidate_name": "Vivek Shekhawat",
+      "email": "vivekshekhawatofficial1592002@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 65.6,
+      "score_breakdown": {
+        "ai_project_depth": 33.0,
+        "python_backend": 17.6,
+        "cloud_fullstack": 5.0,
+        "github": 7.0,
+        "engineering_depth": 3.0
+      },
+      "rule_ai_depth": 33.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "Async",
+        "PostgreSQL",
+        "REST APIs",
+        "WebSockets/SSE",
+        "LangChain",
+        "LangGraph",
+        "Ollama",
+        "RAG",
+        "Vector DB",
+        "Embeddings",
+        "React",
+        "Next.js",
+        "Django",
+        "MySQL",
+        "JavaScript",
+        "Node.js",
+        "Java",
+        "C++"
+      ],
+      "project_summary": "Auriga IT Jaipur, India (deep: backend integration, data processing, evaluation/metrics, retrieval/RAG). Built a production-oriented RAG platform in Go using Gin, GORM, PostgreSQL, pgvector and Ollama to (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "Auriga IT Jaipur, India / Associate Software Engineer Feb 2025 – Present",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG"
+          ],
+          "verdict": "deep",
+          "evidence": "Built a production-oriented RAG platform in Go using Gin, GORM, PostgreSQL, pgvector and Ollama to"
+        },
+        {
+          "title": "Timesheet Bot Python, LangChain, LangGraph, LLMs",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling"
+          ],
+          "verdict": "moderate",
+          "evidence": "Orchestrated multi-step workflows with LangGraph and automated task classification and time allocation to"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Timesheet Bot Python, LangChain, LangGraph, LLMs",
+          "[skills] Languages: Go, Python, JavaScript, Java, C++, SQL",
+          "[summary] Python, PostgreSQL, RAG/LLM pipelines, REST APIs and React, with hands-on experience designing secure",
+          "Python frameworks used in projects/work: LangGraph"
+        ],
+        "ai": [
+          "[experience] Auriga IT Jaipur, India / Associate Software Engineer Feb 2025 – Present (llm, retrieval)",
+          "[projects] Timesheet Bot Python, LangChain, LangGraph, LLMs (agentic, llm)"
+        ]
+      },
+      "github": {
+        "username": "Vivek1592002",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 12,
+        "maintained_repos": 1,
+        "relevant_repos": [
+          "chatappbackend",
+          "djangotweetsapp",
+          "FridayAi"
+        ],
+        "last_push_days_ago": 53,
+        "recent_commits_90d": 0,
+        "activity_points": 4.0,
+        "repo_points": 3.0
+      },
+      "github_summary": "12 owned public repos, 1 updated in the last year, 3 Python/AI-relevant; last push 53d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: Auriga IT Jaipur, India",
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)"
+      ],
+      "concerns": [
+        "No evidence of FastAPI, Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Vivek Shekhawat"
+    },
+    {
+      "rank": 18,
+      "file": "candidate_16.pdf",
+      "candidate_name": "Priyanshu Kumar",
+      "email": "krpriyanshu2805@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 64.5,
+      "score_breakdown": {
+        "ai_project_depth": 31.0,
+        "python_backend": 20.5,
+        "cloud_fullstack": 5.0,
+        "github": 5.0,
+        "engineering_depth": 3.0
+      },
+      "rule_ai_depth": 31.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "FastAPI",
+        "Async",
+        "PostgreSQL",
+        "LangGraph",
+        "CrewAI",
+        "MCP",
+        "RAG",
+        "Vector DB",
+        "Embeddings",
+        "React",
+        "Kafka",
+        "Python",
+        "MySQL",
+        "MongoDB",
+        "LangChain",
+        "Prompt Engineering",
+        "JavaScript",
+        "Node.js",
+        "C++"
+      ],
+      "project_summary": "Full Stack Developer, NTT Data (moderate: agents/tool-calling, backend integration, data processing). Designed a LangGraph-based multi-agent architecture enabling collaborative reasoning for requirement (+2 more substantive AI projects)",
+      "projects": [
+        {
+          "title": "Full Stack Developer, NTT Data August 2025 – Present",
+          "section": "experience",
+          "signals": [
+            "agents/tool-calling",
+            "backend integration",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "Designed a LangGraph-based multi-agent architecture enabling collaborative reasoning for requirement"
+        },
+        {
+          "title": "PR Sentinel – AI",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration"
+          ],
+          "verdict": "moderate",
+          "evidence": "Built an LLM-driven workflow engine using LangGraph to analyse live GitHub pull requests and generate"
+        },
+        {
+          "title": "AI Conversation Assistant",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "retrieval/RAG"
+          ],
+          "verdict": "moderate",
+          "evidence": "Integrated CrewAI agentic models for task routing across RAG (Pinecone VDB + all-MiniLM-L6-v2"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[skills] Programming Languages: JavaScript, Python, C++",
+          "Python frameworks used in projects/work: CrewAI, FastAPI, LangGraph"
+        ],
+        "ai": [
+          "[experience] Full Stack Developer, NTT Data August 2025 – Present (agentic)",
+          "[projects] PR Sentinel – AI (agentic, llm)",
+          "[projects] AI Conversation Assistant (agentic, llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "pkr2805",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 9,
+        "maintained_repos": 2,
+        "relevant_repos": [
+          "PR-Sentinel-AI",
+          "gv",
+          "aproj",
+          "resume-skill-extractor",
+          "OEE_Assistant"
+        ],
+        "last_push_days_ago": 219,
+        "recent_commits_90d": 0,
+        "activity_points": 1.0,
+        "repo_points": 4.0
+      },
+      "github_summary": "9 owned public repos, 2 updated in the last year, 5 Python/AI-relevant; last push 219d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "FastAPI backend in projects/work"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: LangChain",
+        "Python appears only in skills/summary; no project names it explicitly",
+        "No evidence of Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Priyanshu Kumar"
+    },
+    {
+      "rank": 19,
+      "file": "candidate_41.pdf",
+      "candidate_name": "Hari Shanker Sharma",
+      "email": "harishankersharma648@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 63.1,
+      "score_breakdown": {
+        "ai_project_depth": 29.0,
+        "python_backend": 14.6,
+        "cloud_fullstack": 8.5,
+        "github": 8.0,
+        "engineering_depth": 3.0
+      },
+      "rule_ai_depth": 29.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "FastAPI",
+        "REST APIs",
+        "WebSockets/SSE",
+        "LangChain",
+        "MCP",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "pytest",
+        "Python",
+        "Async",
+        "MongoDB",
+        "RAG",
+        "React",
+        "Next.js"
+      ],
+      "project_summary": "500Agents— Component Intelligence Platform (moderate: agents/tool-calling, backend integration, state/memory). Architected the FastAPI AI runtime for a Component Intelligence Platform — Journey Builder, Component Registry, MCP-based data source (+2 more substantive AI projects)",
+      "projects": [
+        {
+          "title": "Mantra Technologies Jan 2024 – Present / Software Engineer Hyderabad, Telangana / Designed, built, and shipped four prod",
+          "section": "experience",
+          "signals": [
+            "agents/tool-calling",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "customer support, website agents, component intelligence, and algorithmic"
+        },
+        {
+          "title": "500Agents— Component Intelligence Platform",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "state/memory"
+          ],
+          "verdict": "moderate",
+          "evidence": "Architected the FastAPI AI runtime for a Component Intelligence Platform — Journey Builder, Component Registry, MCP-based data source"
+        },
+        {
+          "title": "Jug.ai— AI Website Agent Platform",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "data processing",
+            "training/fine-tuning"
+          ],
+          "verdict": "moderate",
+          "evidence": "content training pipeline, and one-click deployment of live chatbots & voice"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[summary] systems, LLM applications, RAG pipelines, real-time streaming APIs, and AI agent orchestration using Python, FastAPI,",
+          "Python frameworks used in projects/work: FastAPI"
+        ],
+        "ai": [
+          "[experience] Mantra Technologies Jan 2024 – Present / Software Engineer Hyderabad, Telangana / Designed (agentic)",
+          "[experience] 500Agents— Component Intelligence Platform (agentic, llm)",
+          "[experience] Jug.ai— AI Website Agent Platform (agentic, llm)"
+        ]
+      },
+      "github": {
+        "username": "triggered-exe",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 28,
+        "maintained_repos": 4,
+        "relevant_repos": [
+          "bug-tracker",
+          "gen-ai-nxtwave",
+          "todos"
+        ],
+        "last_push_days_ago": 42,
+        "recent_commits_90d": 0,
+        "activity_points": 4.0,
+        "repo_points": 4.0
+      },
+      "github_summary": "28 owned public repos, 4 updated in the last year, 3 Python/AI-relevant; last push 42d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Agentic / tool-calling work shown in projects or jobs",
+        "FastAPI backend in projects/work",
+        "Cloud/containerised deployment (Docker)"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: RAG",
+        "Python appears only in skills/summary; no project names it explicitly",
+        "No evidence of PostgreSQL, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Hari Shanker Sharma"
+    },
+    {
+      "rank": 20,
+      "file": "candidate_38.pdf",
+      "candidate_name": "Pavani A",
+      "email": "pavani10112004@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 62.0,
+      "score_breakdown": {
+        "ai_project_depth": 20.0,
+        "python_backend": 22.5,
+        "cloud_fullstack": 9.5,
+        "github": 10.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 20.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "MySQL",
+        "REST APIs",
+        "TensorFlow",
+        "Deep Learning",
+        "Docker",
+        "CI/CD",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Flask",
+        "MongoDB",
+        "pandas",
+        "NumPy",
+        "scikit-learn",
+        "Machine Learning",
+        "Java"
+      ],
+      "project_summary": "Software Engineer Intern (moderate: backend integration, data processing). Integrated CI/CD pipelines (Jenkins, Docker) and automated backend workflows using AI tools (Cursor, LLMs). (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "Software Engineer Intern / SEQUOIA April 2025 - March 2026",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "Integrated CI/CD pipelines (Jenkins, Docker) and automated backend workflows using AI tools (Cursor, LLMs)."
+        },
+        {
+          "title": "Automated Evaluation System (AutoEval) | React.js, Next.js, Django, FastAPI, PostgreSQL",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "evaluation/metrics"
+          ],
+          "verdict": "moderate",
+          "evidence": "https://github.com/Pavani-A/Auto_Eval"
+        },
+        {
+          "title": "Handwritten Digit Recognition | Python, TensorFlow, CNN, Tkinter",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "data processing"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Built a CNN-based handwritten digit recognition model using the MNIST dataset (60K+ images)."
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Pantry Management | Python, Django, Mysql, HTML/CSS, JavaScript",
+          "[skills] Python, Java, SQL | TensorFlow, Keras, Scikit-learn, Pandas, NumPy | Machine Learning, Deep Learning, CNNs | Django,",
+          "[summary] Software Engineer with 1 year of Software Engineering internship experience developing Python-based backend services, AI",
+          "Python frameworks used in projects/work: Django, FastAPI"
+        ],
+        "ai": [
+          "[experience] Software Engineer Intern / SEQUOIA April 2025 - March 2026 (llm)",
+          "[projects] Automated Evaluation System (AutoEval) | React.js, Next.js, Django, FastAPI, PostgreSQL (llm)"
+        ]
+      },
+      "github": {
+        "username": "Pavani-A",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 15,
+        "maintained_repos": 11,
+        "relevant_repos": [
+          "AI-Powered-Digital-Asset-Management",
+          "lenny-growth-assistant",
+          "handwritten-number-recognition",
+          "image_recognition"
+        ],
+        "last_push_days_ago": 2,
+        "recent_commits_90d": 40,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "15 owned public repos, 11 updated in the last year, 4 Python/AI-relevant; last push 2d ago, 40 public commits in 90d.",
+      "strengths": [
+        "Measures AI quality (evals, benchmarks or accuracy metrics)",
+        "FastAPI backend in projects/work",
+        "Cloud/containerised deployment (Docker)"
+      ],
+      "concerns": [
+        "No evidence of Async, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Pavani A"
+    },
+    {
+      "rank": 21,
+      "file": "candidate_26.pdf",
+      "candidate_name": "Thejeshwaar Paasila",
+      "email": "thejeshwaarp@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 57.0,
+      "score_breakdown": {
+        "ai_project_depth": 20.0,
+        "python_backend": 21.5,
+        "cloud_fullstack": 10.5,
+        "github": 3.0,
+        "engineering_depth": 2.0
+      },
+      "rule_ai_depth": 20.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "SQLAlchemy",
+        "PostgreSQL",
+        "REST APIs",
+        "OpenAI API",
+        "Gemini",
+        "NLP",
+        "GCP",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "WebSockets/SSE",
+        "Claude",
+        "Hugging Face",
+        "RAG",
+        "Prompt Engineering",
+        "Docker",
+        "CI/CD",
+        "Next.js",
+        "JavaScript"
+      ],
+      "project_summary": "IRLYSM – AI-Powered Real-Time Social Networking App (deep: backend integration, classic ML/DL, data processing, state/memory, training/fine-tuning). – Conceptualized a GenAI-enabled academic platform serving 300+ students with autonomous content distillation, spaced-repetition card generation, and… (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "AI Engineering Intern — Sky Rise AI Technologies 2025 – Present",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "classic ML/DL",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "processing latency by 30% through GenAI engineering practices."
+        },
+        {
+          "title": "• IRLYSM – AI-Powered Real-Time Social Networking App",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "classic ML/DL",
+            "data processing",
+            "state/memory",
+            "training/fine-tuning"
+          ],
+          "verdict": "deep",
+          "evidence": "– Conceptualized a GenAI-enabled academic platform serving 300+ students with autonomous content distillation, spaced-repetition card generation, and…"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Tools & Technologies: React, React Native, TypeScript, Python, Flask, Node.js, Supabase, PostgreSQL, OpenAI",
+          "[projects] WSGI routing, and multi-dialect database compatibility using Python 3.11.",
+          "[skills] Programming Languages: Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3",
+          "[summary] production systems using React, React Native, TypeScript, Python, Supabase, PostgreSQL, WebRTC, and LLM"
+        ],
+        "ai": [
+          "[experience] AI Engineering Intern — Sky Rise AI Technologies 2025 – Present (llm)",
+          "[projects] • IRLYSM – AI-Powered Real-Time Social Networking App (llm)"
+        ]
+      },
+      "github": {
+        "username": "tejaharleys",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 2,
+        "maintained_repos": 1,
+        "relevant_repos": [],
+        "last_push_days_ago": 136,
+        "recent_commits_90d": 0,
+        "activity_points": 2.0,
+        "repo_points": 1.0
+      },
+      "github_summary": "2 owned public repos, 1 updated in the last year, 0 Python/AI-relevant; last push 136d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: IRLYSM – AI-Powered Real-Time Social Networking App",
+        "Python used in professional work",
+        "Cloud/containerised deployment (GCP)"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: RAG",
+        "No evidence of FastAPI, Async, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Thejeshwaar Paasila"
+    },
+    {
+      "rank": 22,
+      "file": "candidate_12.pdf",
+      "candidate_name": "Shubhanshu Navadiya",
+      "email": "subhnavadiya@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 53.5,
+      "score_breakdown": {
+        "ai_project_depth": 30.0,
+        "python_backend": 15.0,
+        "cloud_fullstack": 3.5,
+        "github": 5.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 30.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "REST APIs",
+        "pandas",
+        "LangChain",
+        "LlamaIndex",
+        "OpenAI API",
+        "Gemini",
+        "RAG",
+        "Vector DB",
+        "scikit-learn",
+        "XGBoost",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "CI/CD",
+        "MySQL",
+        "NumPy",
+        "CrewAI",
+        "AutoGen",
+        "Ollama",
+        "Hugging Face",
+        "Embeddings",
+        "PyTorch"
+      ],
+      "project_summary": "Artificial Intelligence Intern — F22 Labs (moderate: agents/tool-calling, data processing, retrieval/RAG). Built an end-to-end RAG pipeline for insurance policy documents using LlamaParse, Qdrant/Weaviate, (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "Artificial Intelligence Intern — F22 Labs | Jun 2025 – Oct 2025",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "data processing",
+            "retrieval/RAG"
+          ],
+          "verdict": "moderate",
+          "evidence": "Built an end-to-end RAG pipeline for insurance policy documents using LlamaParse, Qdrant/Weaviate,"
+        },
+        {
+          "title": "Artificial Intelligence Intern — Infosys Springboard | Nov 2024 – Jan 2025",
+          "section": "experience",
+          "signals": [
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "classification accuracy on news classification."
+        },
+        {
+          "title": "Machine Learning Intern — Edunet Foundation (AICTE & Shell) | Nov 2024 – Dec 2024",
+          "section": "experience",
+          "signals": [
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "hyperparameter tuning, and evaluation, achieving 89% accuracy and 0.91 ROC-AUC."
+        },
+        {
+          "title": "Automated Stock News AI Agent | Python, Gemini API, SQLite, GitHub Actions | Jul 2026",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling"
+          ],
+          "verdict": "moderate",
+          "evidence": "using Gemini API to generate concise stock-market summaries."
+        },
+        {
+          "title": "Automated Financial Expense Classification | Scikit-learn, LightGBM, XGBoost, TF-IDF | Apr–May 2026",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Evaluated 8 ML models and developed a weighted LightGBM/XGBoost ensemble, improving classification"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Automated Stock News AI Agent | Python, Gemini API, SQLite, GitHub Actions | Jul 2026",
+          "[skills] Programming & Data: Python, SQL, MySQL, SQLite, Pandas, NumPy",
+          "Python frameworks used in projects/work: FastAPI, LlamaIndex, pandas, scikit-learn"
+        ],
+        "ai": [
+          "[experience] Artificial Intelligence Intern — F22 Labs | Jun 2025 – Oct 2025 (agentic, llm, retrieval)",
+          "[projects] Automated Stock News AI Agent | Python, Gemini API, SQLite, GitHub Actions | Jul 2026 (agentic, llm)"
+        ]
+      },
+      "github": {
+        "username": "Shubhanshu-356",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 7,
+        "maintained_repos": 4,
+        "relevant_repos": [
+          "healthcare-plus-ai",
+          "AI_Layout_Generator",
+          "AI_GAME_REFEREE_CHATBOT"
+        ],
+        "last_push_days_ago": 253,
+        "recent_commits_90d": 0,
+        "activity_points": 1.0,
+        "repo_points": 4.0
+      },
+      "github_summary": "7 owned public repos, 4 updated in the last year, 3 Python/AI-relevant; last push 253d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Agentic / tool-calling work shown in projects or jobs",
+        "Retrieval / RAG implementation evidence",
+        "FastAPI backend in projects/work"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: CrewAI, AutoGen",
+        "No evidence of Async, PostgreSQL, Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Shubhanshu Navadiya"
+    },
+    {
+      "rank": 23,
+      "file": "candidate_15.pdf",
+      "candidate_name": "Harsha A",
+      "email": "harshaarun2608@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 48.5,
+      "score_breakdown": {
+        "ai_project_depth": 21.0,
+        "python_backend": 22.5,
+        "cloud_fullstack": 4.0,
+        "github": 0.0,
+        "engineering_depth": 1.0
+      },
+      "rule_ai_depth": 21.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MySQL",
+        "REST APIs",
+        "pandas",
+        "NumPy",
+        "Vector DB",
+        "Embeddings",
+        "TensorFlow",
+        "OpenCV",
+        "YOLO",
+        "Deep Learning",
+        "Computer Vision",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Machine Learning",
+        "Docker",
+        "Java"
+      ],
+      "project_summary": "GPTCS (moderate: backend integration, classic ML/DL, data processing, retrieval/RAG). Implemented face embedding storage and similarity matching using PostgreSQL (pgvector) and",
+      "projects": [
+        {
+          "title": "Skin Cancer Detection using Deep Learning | November 2024 - February 2025",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics",
+            "training/fine-tuning"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "malignant or benign, achieving high accuracy through effective preprocessing, data augmentation, and"
+        },
+        {
+          "title": "Motion Detection | June 2024 - September 2024",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "This project is on image processing using the OpenCV function. A computer vision system's basic goal is to"
+        },
+        {
+          "title": "GPTCS | Feb 2026 - July 2026",
+          "section": "experience",
+          "signals": [
+            "backend integration",
+            "classic ML/DL",
+            "data processing",
+            "retrieval/RAG"
+          ],
+          "verdict": "moderate",
+          "evidence": "Implemented face embedding storage and similarity matching using PostgreSQL (pgvector) and"
+        },
+        {
+          "title": "Skin Cancer Detection using Deep Learning | November 2024 - February 2025",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics",
+            "training/fine-tuning"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "or benign, achieving high accuracy through effective preprocessing, data augmentation, and model"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Developed backend services using Python FastAPI and PostgreSQL to manage school entities including",
+          "[projects] CNNs. Skilled in Python, TensorFlow/Keras, and OpenCV, with a solid understanding of medical imaging",
+          "[skills] Python",
+          "[summary] Python, database management systems, and web technologies. Experienced in developing full-stack"
+        ],
+        "ai": [
+          "[experience] GPTCS | Feb 2026 - July 2026 (retrieval)"
+        ]
+      },
+      "github": {
+        "username": null,
+        "status": "not_provided",
+        "detail": "GitHub mentioned but no profile URL found",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "No GitHub profile on resume (GitHub mentioned but no profile URL found)",
+      "strengths": [
+        "Retrieval / RAG implementation evidence",
+        "Python used in professional work",
+        "FastAPI backend in projects/work"
+      ],
+      "concerns": [
+        "No evidence of Async, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Harsha A"
+    },
+    {
+      "rank": 24,
+      "file": "candidate_09.pdf",
+      "candidate_name": "Krishan Kant",
+      "email": "krishankantptu@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 48.2,
+      "score_breakdown": {
+        "ai_project_depth": 17.0,
+        "python_backend": 11.2,
+        "cloud_fullstack": 6.0,
+        "github": 10.0,
+        "engineering_depth": 4.0
+      },
+      "rule_ai_depth": 17.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Async",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "OpenAI API",
+        "Docker",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "Python",
+        "Redis",
+        "LangChain",
+        "RAG",
+        "Vector DB",
+        "C++",
+        "Kafka"
+      ],
+      "project_summary": "AI-Powered Resume Screener [GitHub] (moderate: backend integration, data processing, retrieval/RAG). Built a Java 17 / Spring Boot 3.3 backend integrating the OpenAI API via Spring AI to automate recruiter resume screening; designed an",
+      "projects": [
+        {
+          "title": "AI-Powered Resume Screener [GitHub] | Java, Spring Boot, MongoDB, Spring AI, OpenAI, Maven, Docker, Swagger, JUnit",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "data processing",
+            "retrieval/RAG"
+          ],
+          "verdict": "moderate",
+          "evidence": "Built a Java 17 / Spring Boot 3.3 backend integrating the OpenAI API via Spring AI to automate recruiter resume screening; designed an"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[skills] Languages: Java, Python, SQL, C++"
+        ],
+        "ai": [
+          "[projects] AI-Powered Resume Screener [GitHub] | Java, Spring Boot, MongoDB, Spring AI, OpenAI, Maven (llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "krishankantgit",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 14,
+        "maintained_repos": 10,
+        "relevant_repos": [
+          "ai-powered-resume-screener",
+          "whatsapp-chatbot",
+          "Dockerize-a-Simple-Web-App-and-Deploy-with-GitHub-Actions"
+        ],
+        "last_push_days_ago": 24,
+        "recent_commits_90d": 3,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "14 owned public repos, 10 updated in the last year, 3 Python/AI-relevant; last push 24d ago, 3 public commits in 90d.",
+      "strengths": [
+        "Retrieval / RAG implementation evidence",
+        "Cloud/containerised deployment (Docker)",
+        "Engineering depth: architecture, concurrency, failure handling, observability"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: LangChain, RAG, Vector DB",
+        "Python appears only in skills/summary; no project names it explicitly",
+        "No evidence of FastAPI"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Krishan Kant"
+    },
+    {
+      "rank": 25,
+      "file": "candidate_23.pdf",
+      "candidate_name": "Annisha S",
+      "email": "annishasaravanan83@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 48.0,
+      "score_breakdown": {
+        "ai_project_depth": 22.0,
+        "python_backend": 22.0,
+        "cloud_fullstack": 4.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 22.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "REST APIs",
+        "LangGraph",
+        "OpenAI API",
+        "React",
+        "MongoDB",
+        "Azure"
+      ],
+      "project_summary": "AI-FIRST CRM SYSTEMS USING LANGGRAPH AND LLM (moderate: agents/tool-calling, backend integration, data processing). into structured data using LangGraph, Groq LLM, FastAPI, and (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "AI-FIRST CRM SYSTEMS USING LANGGRAPH AND LLM",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "agents/tool-calling",
+            "backend integration",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "into structured data using LangGraph, Groq LLM, FastAPI, and"
+        },
+        {
+          "title": "Code4X — Full Stack Developer Intern (Dec 2025 – Feb 2026)",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration"
+          ],
+          "verdict": "moderate",
+          "evidence": "Integrated OpenAI APIs for AI-based content generation and"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Constructed a scalable task management app using Python,",
+          "[skills] Python, React.js, FastAPI, REST APIs,",
+          "Python frameworks used in projects/work: FastAPI, LangGraph"
+        ],
+        "ai": [
+          "[projects] AI-FIRST CRM SYSTEMS USING LANGGRAPH AND LLM (agentic, llm)",
+          "[experience] Code4X — Full Stack Developer Intern (Dec 2025 – Feb 2026) (llm)"
+        ]
+      },
+      "github": {
+        "username": "annisha-atdoor",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 3,
+        "maintained_repos": 0,
+        "relevant_repos": [],
+        "last_push_days_ago": 812,
+        "recent_commits_90d": 0,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "3 owned public repos, 0 updated in the last year, 0 Python/AI-relevant; last push 812d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Agentic / tool-calling work shown in projects or jobs",
+        "FastAPI backend in projects/work"
+      ],
+      "concerns": [
+        "No evidence of Async, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Annisha S"
+    },
+    {
+      "rank": 26,
+      "file": "candidate_06.pdf",
+      "candidate_name": "M Sai Kushith",
+      "email": "msaikushith718@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 47.0,
+      "score_breakdown": {
+        "ai_project_depth": 23.0,
+        "python_backend": 19.0,
+        "cloud_fullstack": 0.0,
+        "github": 5.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 23.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "Django",
+        "REST APIs",
+        "scikit-learn",
+        "NLP",
+        "FastAPI",
+        "PostgreSQL",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Vector DB",
+        "Prompt Engineering",
+        "Machine Learning",
+        "React",
+        "TypeScript",
+        "Java"
+      ],
+      "project_summary": "Software Developer (deep: backend integration, data processing, evaluation/metrics, state/memory). against the platform database at 95% extraction accuracy.",
+      "projects": [
+        {
+          "title": "Software Developer / AlstonAir Technologies | Sep 2025 – July 2026 | Bengaluru, India / NAL — New Age Land (Real Estate ",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "data processing",
+            "evaluation/metrics",
+            "state/memory"
+          ],
+          "verdict": "deep",
+          "evidence": "against the platform database at 95% extraction accuracy."
+        },
+        {
+          "title": "Cancer Disease Detection — Python, Scikit-Learn, ML",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "data processing"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "PDF Document Analysis System — Python, NLP, ML"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Cancer Disease Detection — Python, Scikit-Learn, ML",
+          "[skills] Backend: Python, Django, FastAPI, PostgreSQL, SQL, REST APIs, Java, Hibernate, JDBC, J2EE",
+          "Python frameworks used in projects/work: Django, scikit-learn"
+        ],
+        "ai": [
+          "[experience] Software Developer / AlstonAir Technologies | Sep 2025 – July 2026 | Bengaluru, India / NA (llm)"
+        ]
+      },
+      "github": {
+        "username": "SaiKushith",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 4,
+        "maintained_repos": 2,
+        "relevant_repos": [
+          "Cancer-Prediction-"
+        ],
+        "last_push_days_ago": 123,
+        "recent_commits_90d": 0,
+        "activity_points": 2.0,
+        "repo_points": 3.0
+      },
+      "github_summary": "4 owned public repos, 2 updated in the last year, 1 Python/AI-relevant; last push 123d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Deep AI system: Software Developer",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)"
+      ],
+      "concerns": [
+        "Listed in skills but not shown in any project: LangChain, LangGraph, RAG, Vector DB",
+        "No evidence of Async, Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "M Sai Kushith"
+    },
+    {
+      "rank": 27,
+      "file": "candidate_49.pdf",
+      "candidate_name": "Aswin Raj R",
+      "email": "aswinrajr12@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 44.5,
+      "score_breakdown": {
+        "ai_project_depth": 17.0,
+        "python_backend": 13.5,
+        "cloud_fullstack": 4.0,
+        "github": 10.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 17.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "MongoDB",
+        "REST APIs",
+        "LangChain",
+        "OpenAI API",
+        "RAG",
+        "TensorFlow",
+        "Deep Learning",
+        "React",
+        "Node.js",
+        "MySQL",
+        "AWS",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "C++"
+      ],
+      "project_summary": "Kontiki labs (moderate: retrieval/RAG). Engineered Talkwise AI, a proof-of-concept AI meeting assistant integrating LLMs, RAG, and real-time (+1 more substantive AI project)",
+      "projects": [
+        {
+          "title": "Kontiki labs / Gen AI Developer Intern May 2025 - October 2025",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "retrieval/RAG"
+          ],
+          "verdict": "moderate",
+          "evidence": "Engineered Talkwise AI, a proof-of-concept AI meeting assistant integrating LLMs, RAG, and real-time"
+        },
+        {
+          "title": "Federated Learning in Plant Disease Detection",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "evaluation/metrics"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Achieved 91.58% accuracy while ensuring data privacy."
+        },
+        {
+          "title": "AI Car Rental Platform",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "retrieval/RAG"
+          ],
+          "verdict": "moderate",
+          "evidence": "Tech Stack: MongoDB, Express.js, React.js, Node.js, JWT, ImageKit, LLMs, RAG, LangChain"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Tools and technologies used: Python, LangChain, RAG, OpenAI API.",
+          "[projects] Tools & technologies used: Python, TensorFlow, Federated Learning, Vision Transformer (ViT), Deep",
+          "[skills] Programming Languages : C, C++, SQL, Python, Java, SAP ABAP."
+        ],
+        "ai": [
+          "[experience] Kontiki labs / Gen AI Developer Intern May 2025 - October 2025 (llm, retrieval)",
+          "[projects] AI Car Rental Platform (llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "Aswinx0",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 13,
+        "maintained_repos": 11,
+        "relevant_repos": [
+          "hiver",
+          "AI-car-rental",
+          "multimodal-rag-pipeline-",
+          "Notification_system",
+          "breathe-esg",
+          "AI-Resume-builder",
+          "Employee-Management-System"
+        ],
+        "last_push_days_ago": 19,
+        "recent_commits_90d": 0,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "13 owned public repos, 11 updated in the last year, 7 Python/AI-relevant; last push 19d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Retrieval / RAG implementation evidence",
+        "Python used in professional work"
+      ],
+      "concerns": [
+        "No evidence of FastAPI, Async, PostgreSQL, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Aswin Raj R"
+    },
+    {
+      "rank": 28,
+      "file": "candidate_19.pdf",
+      "candidate_name": "P.V. Jayavardhana Sai",
+      "email": "pvjayavardhan6@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 41.0,
+      "score_breakdown": {
+        "ai_project_depth": 19.0,
+        "python_backend": 10.0,
+        "cloud_fullstack": 6.0,
+        "github": 4.0,
+        "engineering_depth": 2.0
+      },
+      "rule_ai_depth": 19.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "MySQL",
+        "Ollama",
+        "RAG",
+        "Machine Learning",
+        "Deep Learning",
+        "React",
+        "Flask",
+        "Hugging Face",
+        "Prompt Engineering",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "OpenCV",
+        "Computer Vision",
+        "NLP",
+        "Docker",
+        "JavaScript",
+        "Java",
+        "C++"
+      ],
+      "project_summary": "(Mar (moderate: data processing, evaluation/metrics, retrieval/RAG). Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Generation (RAG)",
+      "projects": [
+        {
+          "title": "• / INCOIS (Indian national centre for ocean information services) Hyderabad, India / Research intern – Machine learning",
+          "section": "experience",
+          "signals": [
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics",
+            "training/fine-tuning"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "tropical Indian Ocean datasets. Designed data pipelines for preprocessing, training, and evaluation of geospatial models."
+        },
+        {
+          "title": "• Cognitive Resonance AI – Emotion-Aware Contextual AI Framework: Architected a novel deep learning system",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "integrating cognitive modeling with real-time emotional uncertainty quantification and context adaptation for human-centric"
+        },
+        {
+          "title": "(Mar–May 2023)",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "data processing",
+            "evaluation/metrics",
+            "retrieval/RAG"
+          ],
+          "verdict": "moderate",
+          "evidence": "Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Generation (RAG)"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Automated Student Section Allocation Platform: Engineered full-stack solution (Python + React + MySQL)",
+          "[skills] Programming Languages: Python, Java, C, C++ JavaScript, HTML5, CSS3, SQL",
+          "[header] GenAI / LLM Systems Engineer — RAG — AI Agents — Python"
+        ],
+        "ai": [
+          "[projects] (Mar–May 2023) (llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "jayavard123",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 8,
+        "maintained_repos": 1,
+        "relevant_repos": [
+          "Cognitive-Resonance-AI",
+          "Python-patterns",
+          "VOICE-RECOGNITION",
+          "Tic-tac-toe",
+          "LIBRARY-MANAGEMENT-SYSTEM"
+        ],
+        "last_push_days_ago": 345,
+        "recent_commits_90d": 0,
+        "activity_points": 1.0,
+        "repo_points": 3.0
+      },
+      "github_summary": "8 owned public repos, 1 updated in the last year, 5 Python/AI-relevant; last push 345d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Retrieval / RAG implementation evidence",
+        "Measures AI quality (evals, benchmarks or accuracy metrics)"
+      ],
+      "concerns": [
+        "No evidence of FastAPI, Async, PostgreSQL, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "P.V. Jayavardhana Sai"
+    },
+    {
+      "rank": 29,
+      "file": "candidate_24.pdf",
+      "candidate_name": "Dornipadu Karthika Chaitrika",
+      "email": "dornipadukarthi@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 41.0,
+      "score_breakdown": {
+        "ai_project_depth": 18.0,
+        "python_backend": 14.0,
+        "cloud_fullstack": 2.0,
+        "github": 7.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 18.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Gemini",
+        "RAG",
+        "Embeddings",
+        "Machine Learning",
+        "NLP",
+        "Django",
+        "Prompt Engineering",
+        "JavaScript"
+      ],
+      "project_summary": "AIML Intern (Virtual) – AICTE Edu Skills (moderate: retrieval/RAG, state/memory). Developed a Retrieval-Augmented Generation (RAG) based AI assistant using",
+      "projects": [
+        {
+          "title": "Slash Mark IT Solutions – Machine Learning Intern (Dec 2024 – Apr 2025) / Project: Diabetes AI – Hybrid Predictive Syste",
+          "section": "experience",
+          "signals": [
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Achieved 97% prediction accuracy and built a Stream lit-based web application for"
+        },
+        {
+          "title": "AIML Intern (Virtual) – AICTE Edu Skills (Mar 2025) / Project: Production-Grade GenAI Chat Assistant with RAG",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "retrieval/RAG",
+            "state/memory"
+          ],
+          "verdict": "moderate",
+          "evidence": "Developed a Retrieval-Augmented Generation (RAG) based AI assistant using"
+        },
+        {
+          "title": "Detecting Hate Speech in tweets with advanced ML Techniques",
+          "section": "projects",
+          "signals": [
+            "backend integration",
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics",
+            "training/fine-tuning"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "90.14% accuracy using Logistic Regression"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Python and Google Gemini API.",
+          "[skills] Python",
+          "Python frameworks used in projects/work: Flask"
+        ],
+        "ai": [
+          "[experience] AIML Intern (Virtual) – AICTE Edu Skills (Mar 2025) / Project: Production-Grade GenAI Chat (llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "KarthikaDornipadu",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 20,
+        "maintained_repos": 11,
+        "relevant_repos": [
+          "Diabetes-Prediction-ML",
+          "hate-speech-detection-tweets-ml",
+          "trade-api",
+          "genai-chat-assistant",
+          "Music-Recommendation-System",
+          "Black-Friday-Sales-Prediction",
+          "mnist-classification",
+          "house-price-prediction"
+        ],
+        "last_push_days_ago": 122,
+        "recent_commits_90d": 0,
+        "activity_points": 2.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "20 owned public repos, 11 updated in the last year, 8 Python/AI-relevant; last push 122d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Retrieval / RAG implementation evidence",
+        "Python used in professional work"
+      ],
+      "concerns": [
+        "No evidence of FastAPI, Async, PostgreSQL, Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Dornipadu Karthika Chaitrika"
+    },
+    {
+      "rank": 30,
+      "file": "candidate_29.pdf",
+      "candidate_name": "Vikram Madhyasta",
+      "email": "vikrammadyasta@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 40.0,
+      "score_breakdown": {
+        "ai_project_depth": 8.0,
+        "python_backend": 9.5,
+        "cloud_fullstack": 10.5,
+        "github": 10.0,
+        "engineering_depth": 2.0
+      },
+      "rule_ai_depth": 8.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "REST APIs",
+        "OpenAI API",
+        "scikit-learn",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Java"
+      ],
+      "project_summary": "Cloud-Native CI/CD & GitOps Platform with AI-Based Jenkins Log… (moderate: data processing). Tools: Jenkins, Docker, Kubernetes, ArgoCD, AWS (ECR, EC2), Git/GitHub, Python, OpenAI API",
+      "projects": [
+        {
+          "title": "Cloud-Native CI/CD & GitOps Platform with AI-Based Jenkins Log Analysis | GitHub",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "Tools: Jenkins, Docker, Kubernetes, ArgoCD, AWS (ECR, EC2), Git/GitHub, Python, OpenAI API"
+        },
+        {
+          "title": "Serverless ML Inference API for Crop Yield Prediction | GitHub / Tools: AWS S3, Lambda, API Gateway, CloudWatch, IAM, Py",
+          "section": "projects",
+          "signals": [
+            "backend integration",
+            "classic ML/DL",
+            "training/fine-tuning"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "re-implementing inference as pure Python arithmetic cutting the deployment package from a 50MB+ sklearn bundle to under"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Tools: Jenkins, Docker, Kubernetes, ArgoCD, AWS (ECR, EC2), Git/GitHub, Python, OpenAI API",
+          "[skills] Programming & Data: Python, Java (fundamentals), SQL, DBMS (beginner-intermediate)",
+          "Python frameworks used in projects/work: scikit-learn"
+        ],
+        "ai": [
+          "[projects] Cloud-Native CI/CD & GitOps Platform with AI-Based Jenkins Log Analysis | GitHub (llm)"
+        ]
+      },
+      "github": {
+        "username": "vikrammadhyasta",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 11,
+        "maintained_repos": 10,
+        "relevant_repos": [
+          "smart-expense-tracker-api",
+          "AgriTech",
+          "incident-management-system",
+          "cloud-ml-agriculture-predictor"
+        ],
+        "last_push_days_ago": 3,
+        "recent_commits_90d": 18,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "11 owned public repos, 10 updated in the last year, 4 Python/AI-relevant; last push 3d ago, 18 public commits in 90d.",
+      "strengths": [
+        "Cloud/containerised deployment (Docker, Kubernetes)"
+      ],
+      "concerns": [
+        "No evidence of FastAPI, Async, PostgreSQL, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Vikram Madhyasta"
+    },
+    {
+      "rank": 31,
+      "file": "candidate_36.pdf",
+      "candidate_name": "Saif Ali Nagori",
+      "email": "saifalinagori78@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 38.0,
+      "score_breakdown": {
+        "ai_project_depth": 13.0,
+        "python_backend": 10.0,
+        "cloud_fullstack": 5.0,
+        "github": 10.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 13.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Flask",
+        "MongoDB",
+        "REST APIs",
+        "RAG",
+        "React",
+        "Node.js",
+        "Python",
+        "FastAPI",
+        "Machine Learning",
+        "JavaScript",
+        "C++"
+      ],
+      "project_summary": "Electrical Vehicle Knowledge Bot (moderate: backend integration, retrieval/RAG). The system leverages LLM/RAG techniques to answer queries on EV types, charging, benefits, and",
+      "projects": [
+        {
+          "title": "• Electrical Vehicle Knowledge Bot",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "retrieval/RAG"
+          ],
+          "verdict": "moderate",
+          "evidence": "The system leverages LLM/RAG techniques to answer queries on EV types, charging, benefits, and"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[skills] Programming Languages: C, C++, and Python",
+          "Python frameworks used in projects/work: Flask"
+        ],
+        "ai": [
+          "[projects] • Electrical Vehicle Knowledge Bot (llm, retrieval)"
+        ]
+      },
+      "github": {
+        "username": "Nagorisaifali",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 26,
+        "maintained_repos": 14,
+        "relevant_repos": [
+          "Loan_Approval_Predictor",
+          "Car_Price_Prediction",
+          "Electric-vehicle-knowledge-bot-",
+          "BugSpotter-AI-Powered-Code-Reviewer"
+        ],
+        "last_push_days_ago": 25,
+        "recent_commits_90d": 1,
+        "activity_points": 5.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "26 owned public repos, 14 updated in the last year, 4 Python/AI-relevant; last push 25d ago, 1 public commit in 90d.",
+      "strengths": [
+        "Retrieval / RAG implementation evidence"
+      ],
+      "concerns": [
+        "Python appears only in skills/summary; no project names it explicitly",
+        "No evidence of Async, PostgreSQL, Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Saif Ali Nagori"
+    },
+    {
+      "rank": 32,
+      "file": "candidate_04.pdf",
+      "candidate_name": "Yuvaraj R",
+      "email": "yuvi.2003kce@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 37.5,
+      "score_breakdown": {
+        "ai_project_depth": 12.0,
+        "python_backend": 16.0,
+        "cloud_fullstack": 6.5,
+        "github": 2.0,
+        "engineering_depth": 1.0
+      },
+      "rule_ai_depth": 12.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "Django",
+        "Deep Learning",
+        "Docker",
+        "CI/CD",
+        "PostgreSQL",
+        "REST APIs",
+        "pandas",
+        "NumPy",
+        "scikit-learn",
+        "Machine Learning",
+        "Java"
+      ],
+      "project_summary": "Classic ML only: Waste Image Classification (classic ml: classic ML/DL, evaluation/metrics). recyclable or non-recyclable with high accuracy.",
+      "projects": [
+        {
+          "title": "Waste Image Classification / Deep Learning and Streamlit",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "evaluation/metrics"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "recyclable or non-recyclable with high accuracy."
+        },
+        {
+          "title": "03/2023 – 04/2023",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "data processing"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Built an end-to-end image prediction pipeline using Python and Deep Learning frameworks."
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Python Developer Intern",
+          "[projects] Built an end-to-end image prediction pipeline using Python and Deep Learning frameworks.",
+          "[skills] Python, SQL, Java and R",
+          "[summary] Results-driven Python Developer and AI & Data Science fresher with hands-on experience in Python, Django, SQL,"
+        ],
+        "ai": [
+          "[projects] Waste Image Classification / Deep Learning and Streamlit (classic ML/DL)",
+          "[projects] 03/2023 – 04/2023 (classic ML/DL)"
+        ]
+      },
+      "github": {
+        "username": "yuva12003",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 13,
+        "maintained_repos": 0,
+        "relevant_repos": [
+          "chat-bot",
+          "SLP-ASSIGNMENT",
+          "Octanet_September-TASK1",
+          "DEVOPS-PHASE2",
+          "DL-Assignment"
+        ],
+        "last_push_days_ago": 904,
+        "recent_commits_90d": 0,
+        "activity_points": 0.0,
+        "repo_points": 2.0
+      },
+      "github_summary": "13 owned public repos, 0 updated in the last year, 5 Python/AI-relevant; last push 904d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Python used in professional work",
+        "Cloud/containerised deployment (Docker)"
+      ],
+      "concerns": [
+        "No LLM/RAG/agentic project — classic ML only",
+        "No evidence of FastAPI, Async, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Yuvaraj R"
+    },
+    {
+      "rank": 33,
+      "file": "candidate_21.pdf",
+      "candidate_name": "Manoj Kumar K R",
+      "email": "manojkumar.k.r0904@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 33.5,
+      "score_breakdown": {
+        "ai_project_depth": 14.0,
+        "python_backend": 12.5,
+        "cloud_fullstack": 5.0,
+        "github": 2.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 14.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "MySQL",
+        "Hugging Face",
+        "TensorFlow",
+        "OpenCV",
+        "Deep Learning",
+        "React",
+        "REST APIs",
+        "pandas",
+        "NumPy",
+        "PyTorch",
+        "scikit-learn",
+        "Machine Learning",
+        "Java"
+      ],
+      "project_summary": "Classic ML only: Image-Based Goat and Sheep Classification using Deep Learning (classic ml: classic ML/DL, evaluation/metrics, training/fine-tuning). Trained and evaluated five deep learning models: Baseline CNN, MobileNet, ResNet, VGG-16, and",
+      "projects": [
+        {
+          "title": "Image-Based Goat and Sheep Classification using Deep Learning 2026 / Python | TensorFlow | Keras | OpenCV | Hugging Face",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "evaluation/metrics",
+            "training/fine-tuning"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Trained and evaluated five deep learning models: Baseline CNN, MobileNet, ResNet, VGG-16, and"
+        },
+        {
+          "title": "Performed image preprocessing, augmentation, and dataset preparation to improve model",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Compared models using accuracy and prediction metrics, with ConvNeXt achieving the highest"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Python | TensorFlow | Keras | OpenCV | Hugging Face",
+          "[skills] Programming Languages: Python, SQL, C, Java",
+          "[summary] AI/ML Engineer with a strong foundation in Python, Machine Learning, Deep Learning, SQL, and Data Science.",
+          "Python frameworks used in projects/work: Flask"
+        ],
+        "ai": [
+          "[projects] Image-Based Goat and Sheep Classification using Deep Learning 2026 / Python | TensorFlow | (classic ML/DL)",
+          "[projects] Performed image preprocessing, augmentation, and dataset preparation to improve model (classic ML/DL)"
+        ]
+      },
+      "github": {
+        "username": "ManojKumar-8055",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 1,
+        "maintained_repos": 1,
+        "relevant_repos": [],
+        "last_push_days_ago": 306,
+        "recent_commits_90d": 0,
+        "activity_points": 1.0,
+        "repo_points": 1.0
+      },
+      "github_summary": "1 owned public repo, 1 updated in the last year, 0 Python/AI-relevant; last push 306d ago, 0 public commits in 90d.",
+      "strengths": [],
+      "concerns": [
+        "No LLM/RAG/agentic project — classic ML only",
+        "No evidence of FastAPI, Async, PostgreSQL, Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Manoj Kumar K R"
+    },
+    {
+      "rank": 34,
+      "file": "candidate_48.pdf",
+      "candidate_name": "Nidhi Km",
+      "email": "nidhikmgowda24@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 33.0,
+      "score_breakdown": {
+        "ai_project_depth": 8.0,
+        "python_backend": 10.0,
+        "cloud_fullstack": 6.0,
+        "github": 8.0,
+        "engineering_depth": 1.0
+      },
+      "rule_ai_depth": 8.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "MySQL",
+        "REST APIs",
+        "TensorFlow",
+        "OpenCV",
+        "React",
+        "Java",
+        "Spring Boot",
+        "AWS",
+        "JavaScript"
+      ],
+      "project_summary": "Classic ML only: Book My Stay Spring Boot, React.js, MySQL, REST APIs, Maven (classic ml: backend integration, classic ML/DL, data processing). Smart Street Lighting System using ML Raspberry Pi 4, TensorFlow Lite, OpenCV, Python",
+      "projects": [
+        {
+          "title": "Book My Stay Spring Boot, React.js, MySQL, REST APIs, Maven",
+          "section": "projects",
+          "signals": [
+            "backend integration",
+            "classic ML/DL",
+            "data processing"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Smart Street Lighting System using ML Raspberry Pi 4, TensorFlow Lite, OpenCV, Python"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Smart Street Lighting System using ML Raspberry Pi 4, TensorFlow Lite, OpenCV, Python",
+          "[skills] Languages: Java,Python."
+        ],
+        "ai": [
+          "[projects] Book My Stay Spring Boot, React.js, MySQL, REST APIs, Maven (classic ML/DL)"
+        ]
+      },
+      "github": {
+        "username": "Nidhi-km",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 5,
+        "maintained_repos": 5,
+        "relevant_repos": [
+          "AI-Powered-Task-Management-Portal"
+        ],
+        "last_push_days_ago": 55,
+        "recent_commits_90d": 0,
+        "activity_points": 4.0,
+        "repo_points": 4.0
+      },
+      "github_summary": "5 owned public repos, 5 updated in the last year, 1 Python/AI-relevant; last push 55d ago, 0 public commits in 90d.",
+      "strengths": [],
+      "concerns": [
+        "No LLM/RAG/agentic project — classic ML only",
+        "No evidence of FastAPI, Async, PostgreSQL, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Nidhi Km"
+    },
+    {
+      "rank": 35,
+      "file": "candidate_14.pdf",
+      "candidate_name": "Jaya Nandi",
+      "email": "jaya85300@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 31.0,
+      "score_breakdown": {
+        "ai_project_depth": 6.0,
+        "python_backend": 13.0,
+        "cloud_fullstack": 4.0,
+        "github": 8.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 6.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "REST APIs",
+        "Machine Learning",
+        "React",
+        "JavaScript",
+        "MySQL",
+        "pandas",
+        "NumPy",
+        "AWS",
+        "Java"
+      ],
+      "project_summary": "Classic ML only: Job Shop Scheduling Using SGO (classic ml: classic ML/DL). • Developed a novel population-based meta-heuristic algorithm (SGO), inspired by human social behavior, to",
+      "projects": [
+        {
+          "title": "Job Shop Scheduling Using SGO | Python, Machine Learning 2025",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "• Developed a novel population-based meta-heuristic algorithm (SGO), inspired by human social behavior, to"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Spearheaded data cleansing and analysis of customer purchase history (2M+ records) using Python and SQL,",
+          "[projects] Job Shop Scheduling Using SGO | Python, Machine Learning 2025",
+          "[skills] Languages: Python, Java, C, JavaScript, SQL",
+          "[summary] algorithm at an international conference. Skilled in Python, SQL, Power BI, and React.js, with a strong record of"
+        ],
+        "ai": [
+          "[projects] Job Shop Scheduling Using SGO | Python, Machine Learning 2025 (classic ML/DL)"
+        ]
+      },
+      "github": {
+        "username": "jaya-nandi",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 13,
+        "maintained_repos": 5,
+        "relevant_repos": [],
+        "last_push_days_ago": 26,
+        "recent_commits_90d": 2,
+        "activity_points": 5.0,
+        "repo_points": 3.0
+      },
+      "github_summary": "13 owned public repos, 5 updated in the last year, 0 Python/AI-relevant; last push 26d ago, 2 public commits in 90d.",
+      "strengths": [
+        "Python used in professional work"
+      ],
+      "concerns": [
+        "No LLM/RAG/agentic project — classic ML only",
+        "No evidence of FastAPI, Async, PostgreSQL, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Jaya Nandi"
+    },
+    {
+      "rank": 36,
+      "file": "candidate_25.pdf",
+      "candidate_name": "Atul Kumar",
+      "email": "atulofficial02@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 31.0,
+      "score_breakdown": {
+        "ai_project_depth": 4.0,
+        "python_backend": 12.0,
+        "cloud_fullstack": 6.0,
+        "github": 9.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 4.0,
+      "llm_ai_depth": null,
+      "penalties": [
+        "-5: thin LLM-wrapper project(s) with no retrieval/agent/state/eval/backend logic: "
+      ],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "REST APIs",
+        "Gemini",
+        "NLP",
+        "GCP",
+        "MySQL",
+        "pandas",
+        "NumPy",
+        "scikit-learn",
+        "Machine Learning",
+        "C++"
+      ],
+      "project_summary": "SmartATS: Developed an AI-powered resume screening application using… (moderate: backend integration, classic ML/DL, data processing). Streamlit that converts uploaded PDFs into formatted academic assessments. Integrated the Groq API to dynamically",
+      "projects": [
+        {
+          "title": "• / SmartInternz Certificate / Google Cloud Generative AI Virtual Internship (Remote) (Sep 2024 - Oct 2024)",
+          "section": "experience",
+          "signals": [
+            "LLM calls"
+          ],
+          "verdict": "thin_wrapper",
+          "evidence": "◦ Completed a virtual internship focused on Google Cloud Platform (GCP) and Generative AI fundamentals."
+        },
+        {
+          "title": "• SmartATS: Developed an AI-powered resume screening application using Python and Streamlit. Integrated advanced Large",
+          "section": "projects",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "classic ML/DL",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "Streamlit that converts uploaded PDFs into formatted academic assessments. Integrated the Groq API to dynamically"
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] SmartATS: Developed an AI-powered resume screening application using Python and Streamlit. Integrated advanced Large",
+          "[skills] Languages: Python, C++, C",
+          "Python frameworks used in projects/work: Flask"
+        ],
+        "ai": [
+          "[experience] • / SmartInternz Certificate / Google Cloud Generative AI Virtual Internship (Remote) (Sep (llm)",
+          "[projects] • SmartATS: Developed an AI-powered resume screening application using Python and Streamli (llm)"
+        ]
+      },
+      "github": {
+        "username": "atulkumar2025",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 9,
+        "maintained_repos": 8,
+        "relevant_repos": [
+          "SmartATS",
+          "QuickText",
+          "House-Price-Prediction",
+          "Question-Paper-Generator",
+          "SmartATS-Foundation",
+          "Gemini-Chatbot"
+        ],
+        "last_push_days_ago": 66,
+        "recent_commits_90d": 0,
+        "activity_points": 4.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "9 owned public repos, 8 updated in the last year, 6 Python/AI-relevant; last push 66d ago, 0 public commits in 90d.",
+      "strengths": [
+        "Cloud/containerised deployment (GCP)"
+      ],
+      "concerns": [
+        "Thin LLM wrapper: ",
+        "No evidence of FastAPI, Async, PostgreSQL, Redis"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Atul Kumar"
+    },
+    {
+      "rank": 37,
+      "file": "candidate_05.pdf",
+      "candidate_name": "Vishwas Badiger",
+      "email": "vishwasbadiger240@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 29.6,
+      "score_breakdown": {
+        "ai_project_depth": 12.0,
+        "python_backend": 11.6,
+        "cloud_fullstack": 5.0,
+        "github": 0.0,
+        "engineering_depth": 1.0
+      },
+      "rule_ai_depth": 12.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "MySQL",
+        "scikit-learn",
+        "Machine Learning",
+        "React",
+        "Node.js",
+        "Java",
+        "Spring Boot",
+        "MongoDB",
+        "REST APIs",
+        "JavaScript",
+        "C++"
+      ],
+      "project_summary": "Classic ML only: Soil Classification for Sustainable Agriculture — Python, Flask,… (classic ml: backend integration, classic ML/DL, data processing, evaluation/metrics, training/fine-tuning). Trained and evaluated multiple Scikit-learn classification models, tuning hyperparameters to reach 85% prediction accuracy.",
+      "projects": [
+        {
+          "title": "Soil Classification for Sustainable Agriculture — Python, Flask, Scikit-learn Jan 2024 – Jun 2024",
+          "section": "projects",
+          "signals": [
+            "backend integration",
+            "classic ML/DL",
+            "data processing",
+            "evaluation/metrics",
+            "training/fine-tuning"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Trained and evaluated multiple Scikit-learn classification models, tuning hyperparameters to reach 85% prediction accuracy."
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Soil Classification for Sustainable Agriculture — Python, Flask, Scikit-learn Jan 2024 – Jun 2024",
+          "[skills] Languages: Java, JavaScript, Python, C++",
+          "Python frameworks used in projects/work: Flask, scikit-learn"
+        ],
+        "ai": [
+          "[projects] Soil Classification for Sustainable Agriculture — Python, Flask, Scikit-learn Jan 2024 – J (classic ML/DL)"
+        ]
+      },
+      "github": {
+        "username": null,
+        "status": "not_provided",
+        "detail": null,
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "No GitHub profile on resume",
+      "strengths": [],
+      "concerns": [
+        "No LLM/RAG/agentic project — classic ML only",
+        "No evidence of FastAPI, Async, PostgreSQL, Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Vishwas Badiger"
+    },
+    {
+      "rank": 38,
+      "file": "candidate_34.pdf",
+      "candidate_name": "Nisarga H. S.",
+      "email": "nisarga20suresh@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 27.1,
+      "score_breakdown": {
+        "ai_project_depth": 14.0,
+        "python_backend": 9.6,
+        "cloud_fullstack": 3.5,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "rule_ai_depth": 14.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "REST APIs",
+        "Claude",
+        "Deep Learning",
+        "CI/CD",
+        "Node.js",
+        "Java",
+        "MySQL",
+        "Spring Boot"
+      ],
+      "project_summary": "Intern, SAP Labs India Pvt. Ltd. (moderate: backend integration, data processing). workflows using Claude Code, Playwright, Git, and JIRA, automating the SAP",
+      "projects": [
+        {
+          "title": "Intern, SAP Labs India Pvt. Ltd. / 08/2025 – 06/2026 | Bengaluru, Karnataka",
+          "section": "experience",
+          "signals": [
+            "LLM calls",
+            "backend integration",
+            "data processing"
+          ],
+          "verdict": "moderate",
+          "evidence": "workflows using Claude Code, Playwright, Git, and JIRA, automating the SAP"
+        },
+        {
+          "title": "Designing a Rehabilitation Aid for Providing Assistance to Audio and / Speech Disabilities",
+          "section": "projects",
+          "signals": [
+            "backend integration",
+            "classic ML/DL"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "normal people can understand using convolutional neural network."
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] Random Password Generator using Python",
+          "[skills] Python Java Nodejs"
+        ],
+        "ai": [
+          "[experience] Intern, SAP Labs India Pvt. Ltd. / 08/2025 – 06/2026 | Bengaluru, Karnataka (llm)"
+        ]
+      },
+      "github": {
+        "username": null,
+        "status": "not_provided",
+        "detail": "GitHub mentioned but no profile URL found",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "No GitHub profile on resume (GitHub mentioned but no profile URL found)",
+      "strengths": [],
+      "concerns": [
+        "No evidence of FastAPI, Async, PostgreSQL, Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Nisarga H. S."
+    },
+    {
+      "rank": 39,
+      "file": "candidate_20.pdf",
+      "candidate_name": "Priya R",
+      "email": "priyaraguraman29@gmail.com",
+      "status": "eligible",
+      "eligible": true,
+      "total_score": 25.0,
+      "score_breakdown": {
+        "ai_project_depth": 10.0,
+        "python_backend": 8.0,
+        "cloud_fullstack": 0.0,
+        "github": 6.0,
+        "engineering_depth": 1.0
+      },
+      "rule_ai_depth": 10.0,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [],
+      "matched_skills": [
+        "Python",
+        "XGBoost",
+        "Machine Learning",
+        "React",
+        "JavaScript"
+      ],
+      "project_summary": "Classic ML only: Air Quality Index Prediction using Machine Learning (classic ml: classic ML/DL). using PM2.5 levels and machine learning techniques.",
+      "projects": [
+        {
+          "title": "Air Quality Index Prediction using Machine Learning | LINK 1 / Jul 2024 – Nov 2024",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "using PM2.5 levels and machine learning techniques."
+        },
+        {
+          "title": "AQI is a crucial metric for monitoring air pollution and its impact on public health.",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Machine learning algorithms such as SVR, Decision Tree Regressor, and XGBoost Regressor are used to"
+        },
+        {
+          "title": "AI/ML- INTERNSHIP | CERTIFICATE LINK / KEJ IT SOLUTIONS PVT LTD, BENGALURU OCT 2025 - JAN 2026",
+          "section": "projects",
+          "signals": [
+            "classic ML/DL"
+          ],
+          "verdict": "classic_ml",
+          "evidence": "Worked as part of the IT team focusing on Artificial Intelligence and Machine Learning processes."
+        }
+      ],
+      "eligibility_evidence": {
+        "python": [
+          "[projects] In today’s fast-evolving digital world, computers have made significant strides. This Python-based voice",
+          "[skills] Programming Language: Python English",
+          "[summary] database management, and software development life cycle. Proficient in core skills like Python and web"
+        ],
+        "ai": [
+          "[projects] Air Quality Index Prediction using Machine Learning | LINK 1 / Jul 2024 – Nov 2024 (classic ML/DL)",
+          "[projects] AQI is a crucial metric for monitoring air pollution and its impact on public health. (classic ML/DL)",
+          "[projects] AI/ML- INTERNSHIP | CERTIFICATE LINK / KEJ IT SOLUTIONS PVT LTD, BENGALURU OCT 2025 - JAN  (classic ML/DL)"
+        ]
+      },
+      "github": {
+        "username": "Priya291102",
+        "status": "ok",
+        "detail": "from cache",
+        "public_repos": 6,
+        "maintained_repos": 5,
+        "relevant_repos": [
+          "dream-wedding-planner",
+          "Improving-Accessibility-For-The-Blind-By-Developing-a-Helpful-Virtual-Assistant-For-Daily-Life",
+          "PROJECT"
+        ],
+        "last_push_days_ago": 218,
+        "recent_commits_90d": 0,
+        "activity_points": 1.0,
+        "repo_points": 5.0
+      },
+      "github_summary": "6 owned public repos, 5 updated in the last year, 3 Python/AI-relevant; last push 218d ago, 0 public commits in 90d.",
+      "strengths": [],
+      "concerns": [
+        "No LLM/RAG/agentic project — classic ML only",
+        "No evidence of FastAPI, Async, PostgreSQL, Redis",
+        "No cloud/Docker deployment evidence"
+      ],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Priya R"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "rank": null,
+      "file": "candidate_01.pdf",
+      "candidate_name": "Kartikay Sinha",
+      "email": "kartikay.sinha17@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "No evidence of Python stack (profile is C++, JavaScript, Next.js, Node.js, React, TypeScript)",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "REST APIs",
+        "React",
+        "Node.js",
+        "MySQL",
+        "MongoDB",
+        "Docker",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "C++"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [],
+        "ai": []
+      },
+      "github": {
+        "username": "KS1745",
+        "status": "skipped",
+        "detail": "not eligible; not enriched",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "GitHub profile 'KS1745' found; not enriched because the candidate is not eligible",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Kartikay Sinha"
+    },
+    {
+      "rank": null,
+      "file": "candidate_02.pdf",
+      "candidate_name": "Shivam Raj",
+      "email": "shivam2kraj@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "No evidence of Python stack (profile is JavaScript, Next.js, Node.js, React, TypeScript)",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "REST APIs",
+        "Azure",
+        "CI/CD",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Docker",
+        "JavaScript"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [],
+        "ai": []
+      },
+      "github": {
+        "username": null,
+        "status": "not_provided",
+        "detail": "GitHub mentioned but no profile URL found",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "No GitHub profile on resume (GitHub mentioned but no profile URL found)",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Shivam Raj"
+    },
+    {
+      "rank": null,
+      "file": "candidate_03.pdf",
+      "candidate_name": "Agam Jain",
+      "email": "jainagam4@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "REST APIs",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Spring Boot",
+        "Python",
+        "Docker",
+        "Java",
+        "C++"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [
+          "[skills] Languages: C++, Python, Java, HTML, CSS, JavaScript, TypeScript, SQL, GraphQL",
+          "Python frameworks used in projects/work: FastAPI"
+        ],
+        "ai": []
+      },
+      "github": {
+        "username": "AgamJain05",
+        "status": "skipped",
+        "detail": "not eligible; not enriched",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "GitHub profile 'AgamJain05' found; not enriched because the candidate is not eligible",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Agam Jain"
+    },
+    {
+      "rank": null,
+      "file": "candidate_11.pdf",
+      "candidate_name": "Md Azizul Islam",
+      "email": "mdazizul8741@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "No evidence of Python stack (profile is C++, JavaScript, Node.js, React, TypeScript)"
+      ],
+      "matched_skills": [
+        "Async",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "WebSockets/SSE",
+        "OpenAI API",
+        "RAG",
+        "Vector DB",
+        "AWS",
+        "React",
+        "Node.js",
+        "Redis",
+        "Embeddings",
+        "CI/CD",
+        "TypeScript",
+        "JavaScript",
+        "C++"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [],
+        "ai": [
+          "[experience] Software Engineer / Dumroo AI 12/2025 - Present / Growth Path: Software Development Engine (retrieval)",
+          "[projects] AI-Powered Fake News Detection Platform / Tech Stack: React.js, Node.js, OpenAI GPT API, N (llm)"
+        ]
+      },
+      "github": {
+        "username": "Azizul-11",
+        "status": "skipped",
+        "detail": "not eligible; not enriched",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "GitHub profile 'Azizul-11' found; not enriched because the candidate is not eligible",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Md Azizul Islam"
+    },
+    {
+      "rank": null,
+      "file": "candidate_18.pdf",
+      "candidate_name": "Harshit Kumar Mishra",
+      "email": "jmd.harshitmishra@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "No evidence of Python stack (profile is C++, JavaScript, Next.js, Node.js, React, TypeScript)",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "Redis",
+        "WebSockets/SSE",
+        "GCP",
+        "AWS",
+        "Docker",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "CI/CD",
+        "JavaScript",
+        "C++"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [],
+        "ai": []
+      },
+      "github": {
+        "username": "Zack-Dx",
+        "status": "skipped",
+        "detail": "not eligible; not enriched",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "GitHub profile 'Zack-Dx' found; not enriched because the candidate is not eligible",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Harshit Kumar Mishra"
+    },
+    {
+      "rank": null,
+      "file": "candidate_27.pdf",
+      "candidate_name": "Gayathri Palraj",
+      "email": "gayathri.2842004@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "Python",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "MySQL",
+        "CI/CD",
+        "Java"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [
+          "[experience] Built responsive, multi-tier user interfaces for an online recipe web application using React.js, HTML5, CSS3, JavaScript, and Python.",
+          "[skills] React.js (Hooks, State Management) • Git & Shipping Deployed Software • Python Fundamentals • Node.js & REST APIs • SQL & NoSQL Databases",
+          "[summary] Python from academic and internship coursework, alongside production experience in Node.js/Express.js, REST APIs, and both MongoDB and MySQL."
+        ],
+        "ai": []
+      },
+      "github": {
+        "username": "GayathriPalraj-dev",
+        "status": "skipped",
+        "detail": "not eligible; not enriched",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "GitHub profile 'GayathriPalraj-dev' found; not enriched because the candidate is not eligible",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Gayathri Palraj"
+    },
+    {
+      "rank": null,
+      "file": "candidate_31.pdf",
+      "candidate_name": "Shreya Chauhan",
+      "email": "chauhanshreya140@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "Async",
+        "Redis",
+        "MongoDB",
+        "REST APIs",
+        "WebSockets/SSE",
+        "React",
+        "Node.js",
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "Python",
+        "MySQL",
+        "JavaScript",
+        "C++"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [
+          "[skills] Languages: Java, C++, Python, JavaScript, SQL"
+        ],
+        "ai": []
+      },
+      "github": {
+        "username": "ShreyaChauhan-2",
+        "status": "skipped",
+        "detail": "not eligible; not enriched",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "GitHub profile 'ShreyaChauhan-2' found; not enriched because the candidate is not eligible",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Shreya Chauhan"
+    },
+    {
+      "rank": null,
+      "file": "candidate_32.pdf",
+      "candidate_name": "Mukul Pal",
+      "email": "mukulpal0333@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "No evidence of Python stack (profile is JavaScript, Next.js, Node.js, React, TypeScript)"
+      ],
+      "matched_skills": [
+        "Async",
+        "PostgreSQL",
+        "Redis",
+        "REST APIs",
+        "WebSockets/SSE",
+        "OpenAI API",
+        "AWS",
+        "Docker",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "CI/CD",
+        "JavaScript"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [],
+        "ai": [
+          "[projects] ResumeAI | Node.js, React, PostgreSQL, BullMQ, Redis, OpenAI API GitHub | Live (llm)"
+        ]
+      },
+      "github": {
+        "username": "mukulpal03",
+        "status": "skipped",
+        "detail": "not eligible; not enriched",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "GitHub profile 'mukulpal03' found; not enriched because the candidate is not eligible",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Mukul Pal"
+    },
+    {
+      "rank": null,
+      "file": "candidate_42.pdf",
+      "candidate_name": "Anjali Patil",
+      "email": "anjalipatil1220@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "No evidence of Python stack (profile is Java, JavaScript, Spring Boot)",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "Redis",
+        "MySQL",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Docker"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [],
+        "ai": []
+      },
+      "github": {
+        "username": null,
+        "status": "not_provided",
+        "detail": "GitHub mentioned but no profile URL found",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "No GitHub profile on resume (GitHub mentioned but no profile URL found)",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Anjali Patil"
+    },
+    {
+      "rank": null,
+      "file": "candidate_45.pdf",
+      "candidate_name": "Parshuram Kumar",
+      "email": "parshuramkumarofficial725@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "AI/LLM terms appear only in skills/summary (Machine Learning); no AI project or work evidence"
+      ],
+      "matched_skills": [
+        "Async",
+        "MongoDB",
+        "REST APIs",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "Django",
+        "Flask",
+        "Redis",
+        "MySQL",
+        "Claude",
+        "Machine Learning",
+        "AWS",
+        "Azure",
+        "Docker",
+        "CI/CD",
+        "C++",
+        "Kafka"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [
+          "[skills] Languages: JavaScript (ES6+), Python, PHP, C, C++, HTML5, CSS3"
+        ],
+        "ai": []
+      },
+      "github": {
+        "username": "parshuramkumarsitcomp-collab",
+        "status": "skipped",
+        "detail": "not eligible; not enriched",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "GitHub profile 'parshuramkumarsitcomp-collab' found; not enriched because the candidate is not eligible",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Parshuram Kumar"
+    },
+    {
+      "rank": null,
+      "file": "candidate_46.pdf",
+      "candidate_name": "Aabhar Gupta",
+      "email": "aabhargupta2310@gmail.com",
+      "status": "rejected",
+      "eligible": false,
+      "total_score": null,
+      "score_breakdown": null,
+      "rule_ai_depth": null,
+      "llm_ai_depth": null,
+      "penalties": [],
+      "rejection_reasons": [
+        "No evidence of Python stack (profile is JavaScript, Node.js, React)",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "REST APIs",
+        "GCP",
+        "CI/CD",
+        "React",
+        "Node.js",
+        "Redis",
+        "MongoDB",
+        "JavaScript"
+      ],
+      "project_summary": null,
+      "projects": [],
+      "eligibility_evidence": {
+        "python": [],
+        "ai": []
+      },
+      "github": {
+        "username": null,
+        "status": "not_provided",
+        "detail": "GitHub mentioned but no profile URL found",
+        "public_repos": null,
+        "maintained_repos": null,
+        "relevant_repos": [],
+        "last_push_days_ago": null,
+        "recent_commits_90d": null,
+        "activity_points": 0.0,
+        "repo_points": 0.0
+      },
+      "github_summary": "No GitHub profile on resume (GitHub mentioned but no profile URL found)",
+      "strengths": [],
+      "concerns": [],
+      "llm_status": "not_used",
+      "error": null,
+      "duplicate_of": null,
+      "candidate": "Aabhar Gupta"
+    }
+  ],
+  "failed_files": []
+}
